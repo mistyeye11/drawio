@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-19T08:27:50.638Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="f2esKZysHGnfTzRRZULB" version="24.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-19T08:35:03.468Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="HeFGimAaHncdXOYWuMON" version="24.7.1" type="github">
   <diagram name="Page-1" id="2THthLepEFFgmK31MBts">
     <mxGraphModel dx="2537" dy="2056" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -251,11 +251,23 @@
         <mxCell id="mLIb4eEJLBHRUBHXUa-s-95" value="&lt;div&gt;move&lt;/div&gt;&lt;div&gt;collect_waiting_dir/jid.cfg&lt;/div&gt;&lt;div&gt;to&lt;/div&gt;&lt;div&gt;collect_running_dir/jid.cfg&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontFamily=Courier New;rounded=1;fontStyle=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="140" y="1200" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="mLIb4eEJLBHRUBHXUa-s-102" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;dashed=1;" edge="1" parent="1" source="mLIb4eEJLBHRUBHXUa-s-97" target="mLIb4eEJLBHRUBHXUa-s-101">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="mLIb4eEJLBHRUBHXUa-s-97" value="&lt;div&gt;for each trading day&lt;/div&gt;&lt;b&gt;run_one_day&lt;/b&gt;(td)" style="html=1;fontFamily=Courier New;rounded=1;fontStyle=0;" vertex="1" parent="1">
           <mxGeometry x="140" y="1310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mLIb4eEJLBHRUBHXUa-s-99" value="modify $save_dir" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13;fontFamily=Courier New;" vertex="1" parent="1">
           <mxGeometry x="315" y="1200" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mLIb4eEJLBHRUBHXUa-s-104" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="mLIb4eEJLBHRUBHXUa-s-101" target="mLIb4eEJLBHRUBHXUa-s-103">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mLIb4eEJLBHRUBHXUa-s-101" value="run_one_day" style="whiteSpace=wrap;html=1;fontFamily=Courier New;rounded=1;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="1310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mLIb4eEJLBHRUBHXUa-s-103" value="sim_cfg" style="whiteSpace=wrap;html=1;fontFamily=Courier New;rounded=0;fontStyle=0;shape=process;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="1430" width="120" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
