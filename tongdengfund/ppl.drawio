@@ -454,8 +454,14 @@
         <mxCell id="prs-F5NJI6V2_cwa7r63-6" value="&lt;div&gt;find 2 certain json files&lt;/div&gt;&lt;div&gt;from&lt;/div&gt;&lt;div&gt;data_train_dir&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=13;fontFamily=Courier New;rounded=1;fontStyle=0;" vertex="1" parent="1">
           <mxGeometry x="1155" y="1090" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="prs-F5NJI6V2_cwa7r63-11" value="auto_test" style="whiteSpace=wrap;html=1;fontFamily=Courier New;rounded=0;fontStyle=0;shape=process;backgroundOutline=1;fontSize=13;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="prs-F5NJI6V2_cwa7r63-14" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="prs-F5NJI6V2_cwa7r63-11" target="prs-F5NJI6V2_cwa7r63-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="prs-F5NJI6V2_cwa7r63-11" value="auto_model_compare_json.py" style="whiteSpace=wrap;html=1;fontFamily=Courier New;rounded=0;fontStyle=0;shape=process;backgroundOutline=1;fontSize=13;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="1155" y="1200" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="prs-F5NJI6V2_cwa7r63-13" value="&lt;div&gt;move&lt;/div&gt;&lt;div&gt;pred_running_file/jid.cfg&lt;/div&gt;&lt;div&gt;to&lt;/div&gt;&lt;div&gt;done_file/jid.cfg&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=13;fontFamily=Courier New;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="1155" y="1310" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
