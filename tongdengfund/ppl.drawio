@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-24T02:37:13.462Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="j_9Td277w_aYbssmYHWs" version="24.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-24T02:55:02.140Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="L-rnPPTxLQeyd_mrYzGi" version="24.7.1" type="github">
   <diagram name="Page-1" id="2THthLepEFFgmK31MBts">
     <mxGraphModel dx="2643" dy="2116" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -329,7 +329,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mLIb4eEJLBHRUBHXUa-s-125" value="TrainJob::run" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Courier New;fontStyle=1;strokeColor=default;align=center;verticalAlign=middle;fontSize=13;fontColor=default;fillColor=default;" parent="1" vertex="1">
-          <mxGeometry x="620" y="846" width="120" height="60" as="geometry" />
+          <mxGeometry x="710" y="846" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mLIb4eEJLBHRUBHXUa-s-127" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;startSize=8;endSize=8;" parent="1" source="mLIb4eEJLBHRUBHXUa-s-128" target="mLIb4eEJLBHRUBHXUa-s-129" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -338,28 +338,28 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mLIb4eEJLBHRUBHXUa-s-128" value="&lt;div style=&quot;font-size: 13px;&quot;&gt;exist&lt;/div&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;waiting file&lt;br style=&quot;font-size: 13px;&quot;&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Courier New;rounded=0;fontStyle=0;strokeColor=default;align=center;verticalAlign=middle;fontSize=13;fontColor=default;fillColor=default;" parent="1" vertex="1">
-          <mxGeometry x="620" y="970" width="120" height="60" as="geometry" />
+          <mxGeometry x="710" y="970" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mLIb4eEJLBHRUBHXUa-s-129" value="" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=throwing;symbol=general;fontSize=13;" parent="1" vertex="1">
-          <mxGeometry x="800" y="975" width="50" height="50" as="geometry" />
+          <mxGeometry x="890" y="975" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="XVDEXm9eUs0MD4T2L7Vd-13" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="mLIb4eEJLBHRUBHXUa-s-131" target="XVDEXm9eUs0MD4T2L7Vd-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mLIb4eEJLBHRUBHXUa-s-131" value="try to modify&lt;div style=&quot;font-size: 13px;&quot;&gt;hhd and ssd size&lt;br style=&quot;font-size: 13px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;in proc file&lt;br style=&quot;font-size: 13px;&quot;&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontFamily=Courier New;rounded=1;fontStyle=0;fontSize=13;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="620" y="1090" width="120" height="60" as="geometry" />
+          <mxGeometry x="710" y="1090" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mLIb4eEJLBHRUBHXUa-s-136" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;startSize=8;endSize=8;" parent="1" source="mLIb4eEJLBHRUBHXUa-s-133" target="mLIb4eEJLBHRUBHXUa-s-135" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mLIb4eEJLBHRUBHXUa-s-133" value="&lt;div style=&quot;font-size: 13px;&quot;&gt;move &lt;br style=&quot;font-size: 13px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;master_dir/saved_data_eigen.txt*&lt;/div&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;to&lt;/div&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;ssd_data_dir&lt;br style=&quot;font-size: 13px;&quot;&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontFamily=Courier New;rounded=1;fontStyle=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=13;" parent="1" vertex="1">
-          <mxGeometry x="620" y="1310" width="120" height="60" as="geometry" />
+        <mxCell id="mLIb4eEJLBHRUBHXUa-s-133" value="&lt;div style=&quot;font-size: 13px;&quot;&gt;move &lt;br style=&quot;font-size: 13px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;master_dir/saved_data_eigen.txt*&lt;/div&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;to&lt;/div&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;ssd_data_dir&lt;br style=&quot;font-size: 13px;&quot;&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontFamily=Courier New;rounded=1;fontStyle=0;fillColor=#f8cecc;strokeColor=#b85450;fontSize=13;" parent="1" vertex="1">
+          <mxGeometry x="710" y="1310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mLIb4eEJLBHRUBHXUa-s-146" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;startSize=8;endSize=8;" parent="1" source="mLIb4eEJLBHRUBHXUa-s-135" target="mLIb4eEJLBHRUBHXUa-s-145" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mLIb4eEJLBHRUBHXUa-s-135" value="&lt;div style=&quot;font-size: 13px;&quot;&gt;move&lt;/div&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;src_master_file&lt;/div&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;to&lt;/div&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;ssd_master_file&lt;br style=&quot;font-size: 13px;&quot;&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontFamily=Courier New;rounded=1;fontStyle=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=13;" parent="1" vertex="1">
-          <mxGeometry x="620" y="1420" width="120" height="60" as="geometry" />
+        <mxCell id="mLIb4eEJLBHRUBHXUa-s-135" value="&lt;div style=&quot;font-size: 13px;&quot;&gt;move&lt;/div&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;src_master_file&lt;/div&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;to&lt;/div&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;ssd_master_file&lt;br style=&quot;font-size: 13px;&quot;&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontFamily=Courier New;rounded=1;fontStyle=0;fillColor=#f8cecc;strokeColor=#b85450;fontSize=13;" parent="1" vertex="1">
+          <mxGeometry x="710" y="1420" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mLIb4eEJLBHRUBHXUa-s-137" value="" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=end;symbol=terminate2;direction=south;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="415" y="1680" width="50" height="50" as="geometry" />
@@ -371,13 +371,13 @@
           <mxGeometry x="-40" y="1570" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mLIb4eEJLBHRUBHXUa-s-142" value="modify $master_save" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13;fontFamily=Courier New;fontColor=default;" parent="1" vertex="1">
-          <mxGeometry x="510" y="1390" width="170" height="30" as="geometry" />
+          <mxGeometry x="540" y="1420" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mLIb4eEJLBHRUBHXUa-s-148" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;startSize=8;endSize=8;" parent="1" source="mLIb4eEJLBHRUBHXUa-s-145" target="mLIb4eEJLBHRUBHXUa-s-147" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mLIb4eEJLBHRUBHXUa-s-145" value="auto_test" style="whiteSpace=wrap;html=1;fontFamily=Courier New;rounded=0;fontStyle=0;shape=process;backgroundOutline=1;fontSize=13;" parent="1" vertex="1">
-          <mxGeometry x="620" y="1540" width="120" height="70" as="geometry" />
+          <mxGeometry x="710" y="1540" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="mLIb4eEJLBHRUBHXUa-s-152" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;startSize=8;endSize=8;" parent="1" source="mLIb4eEJLBHRUBHXUa-s-147" target="mLIb4eEJLBHRUBHXUa-s-151" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -386,13 +386,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mLIb4eEJLBHRUBHXUa-s-147" value="&lt;b style=&quot;font-size: 13px;&quot;&gt;finish_one&lt;/b&gt;" style="whiteSpace=wrap;html=1;fontFamily=Courier New;rounded=1;fontStyle=0;fontSize=13;" parent="1" vertex="1">
-          <mxGeometry x="620" y="1680" width="120" height="60" as="geometry" />
+          <mxGeometry x="710" y="1680" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mLIb4eEJLBHRUBHXUa-s-151" value="finish one" style="whiteSpace=wrap;html=1;fontFamily=Courier New;rounded=1;fontStyle=0;fontSize=13;" parent="1" vertex="1">
-          <mxGeometry x="860" y="1680" width="120" height="60" as="geometry" />
+        <mxCell id="XVDEXm9eUs0MD4T2L7Vd-16" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="mLIb4eEJLBHRUBHXUa-s-151" target="XVDEXm9eUs0MD4T2L7Vd-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mLIb4eEJLBHRUBHXUa-s-151" value="&lt;b&gt;finish_one&lt;/b&gt;(self, job_id: &lt;b&gt;str&lt;/b&gt;)" style="whiteSpace=wrap;html=1;fontFamily=Courier New;rounded=1;fontStyle=0;fontSize=13;" parent="1" vertex="1">
+          <mxGeometry x="950" y="1680" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mLIb4eEJLBHRUBHXUa-s-155" value="" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=end;symbol=terminate2;direction=south;fontSize=13;" parent="1" vertex="1">
-          <mxGeometry x="655" y="1790" width="50" height="50" as="geometry" />
+          <mxGeometry x="745" y="1790" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="XVDEXm9eUs0MD4T2L7Vd-5" value="resources.cfg" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" vertex="1" parent="1">
           <mxGeometry x="-810" y="130" width="100" height="60" as="geometry" />
@@ -404,7 +407,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XVDEXm9eUs0MD4T2L7Vd-12" value="&lt;div&gt;move&lt;/div&gt;&lt;div&gt;train_waiting_file/jid.cfg&lt;/div&gt;&lt;div&gt;to&lt;/div&gt;&lt;div&gt;train_running_file/jid.cfg&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontFamily=Courier New;rounded=1;fontStyle=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="620" y="1200" width="120" height="60" as="geometry" />
+          <mxGeometry x="710" y="1200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XVDEXm9eUs0MD4T2L7Vd-15" value="&lt;div&gt;move&lt;/div&gt;&lt;div&gt;train_running_dir/jid.cfg&lt;/div&gt;&lt;div&gt;to&lt;/div&gt;&lt;div&gt;pred_waiting_dir/jid.cfg&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=13;fontFamily=Courier New;rounded=1;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="950" y="1860" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
