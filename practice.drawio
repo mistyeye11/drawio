@@ -32,22 +32,25 @@
           <mxGeometry y="190" width="200" height="26" as="geometry" />
         </mxCell>
         <mxCell id="JNSrJHHTEGONHWkqj-x3-6" value="TODOList" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="40" width="160" height="138" as="geometry" />
+          <mxGeometry x="170" y="40" width="270" height="164" as="geometry" />
         </mxCell>
         <mxCell id="JNSrJHHTEGONHWkqj-x3-7" value="+ todos: List[TODO]" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="JNSrJHHTEGONHWkqj-x3-6">
-          <mxGeometry y="26" width="160" height="26" as="geometry" />
+          <mxGeometry y="26" width="270" height="26" as="geometry" />
         </mxCell>
         <mxCell id="JNSrJHHTEGONHWkqj-x3-8" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="JNSrJHHTEGONHWkqj-x3-6">
-          <mxGeometry y="52" width="160" height="8" as="geometry" />
+          <mxGeometry y="52" width="270" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="JNSrJHHTEGONHWkqj-x3-21" value="&lt;div&gt;+ list(page_size, page_index): List[TODO]&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="JNSrJHHTEGONHWkqj-x3-6">
+          <mxGeometry y="60" width="270" height="26" as="geometry" />
         </mxCell>
         <mxCell id="JNSrJHHTEGONHWkqj-x3-9" value="&lt;div&gt;+ insert()&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="JNSrJHHTEGONHWkqj-x3-6">
-          <mxGeometry y="60" width="160" height="26" as="geometry" />
+          <mxGeometry y="86" width="270" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="JNSrJHHTEGONHWkqj-x3-14" value="&lt;div&gt;+ find_by_id(id: int): TODO&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="JNSrJHHTEGONHWkqj-x3-6">
-          <mxGeometry y="86" width="160" height="26" as="geometry" />
+        <mxCell id="JNSrJHHTEGONHWkqj-x3-14" value="&lt;div&gt;+ select(id: int): TODO&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="JNSrJHHTEGONHWkqj-x3-6">
+          <mxGeometry y="112" width="270" height="26" as="geometry" />
         </mxCell>
         <mxCell id="JNSrJHHTEGONHWkqj-x3-16" value="&lt;div&gt;+ remove(id: int) &lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="JNSrJHHTEGONHWkqj-x3-6">
-          <mxGeometry y="112" width="160" height="26" as="geometry" />
+          <mxGeometry y="138" width="270" height="26" as="geometry" />
         </mxCell>
         <mxCell id="JNSrJHHTEGONHWkqj-x3-18" style="edgeStyle=none;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;strokeColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="JNSrJHHTEGONHWkqj-x3-7" target="JNSrJHHTEGONHWkqj-x3-2">
           <mxGeometry relative="1" as="geometry">
