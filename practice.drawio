@@ -40,7 +40,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JNSrJHHTEGONHWkqj-x3-55" value="&lt;div&gt;Jid&lt;/div&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1240" y="698.85" width="110" height="50" as="geometry" />
+          <mxGeometry x="1240" y="760" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="JNSrJHHTEGONHWkqj-x3-89" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;endArrow=none;endFill=0;" edge="1" parent="1" source="JNSrJHHTEGONHWkqj-x3-56" target="JNSrJHHTEGONHWkqj-x3-53">
           <mxGeometry relative="1" as="geometry" />
