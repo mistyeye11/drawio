@@ -142,9 +142,6 @@
         <mxCell id="JNSrJHHTEGONHWkqj-x3-151" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;fillColor=#f8cecc;strokeColor=#b85450;dashed=1;" edge="1" parent="1" source="JNSrJHHTEGONHWkqj-x3-138" target="JNSrJHHTEGONHWkqj-x3-128">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JNSrJHHTEGONHWkqj-x3-170" value="&lt;div align=&quot;left&quot;&gt;&lt;ol&gt;&lt;li&gt;&lt;strike&gt;状态转移的更好设计&lt;/strike&gt;&lt;/li&gt;&lt;li&gt;Job类定位模糊、职责过多&lt;/li&gt;&lt;li&gt;Job类初始化设计&lt;br&gt;&lt;/li&gt;&lt;li&gt;Job类在Scheduler复用&lt;/li&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d6b656;fillColor=#fff2cc;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1420" y="191" width="250" height="140" as="geometry" />
-        </mxCell>
         <mxCell id="JNSrJHHTEGONHWkqj-x3-171" value="调度器" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#2D7600;fillColor=#60a917;fontSize=16;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="790" y="161" width="70" height="30" as="geometry" />
         </mxCell>
