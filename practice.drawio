@@ -190,7 +190,7 @@
             <mxPoint x="2290" y="853" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JNSrJHHTEGONHWkqj-x3-208" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="JNSrJHHTEGONHWkqj-x3-208" value="" style="group;dashed=1;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="1450" y="542.0000000000001" width="110" height="79.99999999999989" as="geometry" />
         </mxCell>
         <mxCell id="JNSrJHHTEGONHWkqj-x3-203" value="&lt;div&gt;Step&lt;/div&gt;&lt;div&gt;&lt;i&gt;empty&lt;/i&gt;&lt;/div&gt;" style="html=1;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="JNSrJHHTEGONHWkqj-x3-208">
@@ -199,19 +199,19 @@
         <mxCell id="JNSrJHHTEGONHWkqj-x3-207" value="execute(context)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="JNSrJHHTEGONHWkqj-x3-208">
           <mxGeometry y="49.999999999999886" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JNSrJHHTEGONHWkqj-x3-210" value="&lt;div&gt;Collect&lt;/div&gt;&lt;div&gt;行为逻辑+数据管理&lt;br&gt;&lt;/div&gt;" style="html=1;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="JNSrJHHTEGONHWkqj-x3-210" value="&lt;div&gt;Collect&lt;/div&gt;&lt;div&gt;行为逻辑+数据管理&lt;br&gt;&lt;/div&gt;" style="html=1;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="1450" y="666.93" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="JNSrJHHTEGONHWkqj-x3-217" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;endArrow=block;endFill=0;" edge="1" parent="1" source="JNSrJHHTEGONHWkqj-x3-211" target="JNSrJHHTEGONHWkqj-x3-207">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JNSrJHHTEGONHWkqj-x3-211" value="Train" style="html=1;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="JNSrJHHTEGONHWkqj-x3-211" value="Train" style="html=1;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="1580" y="666.93" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="JNSrJHHTEGONHWkqj-x3-218" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;endArrow=block;endFill=0;" edge="1" parent="1" source="JNSrJHHTEGONHWkqj-x3-212" target="JNSrJHHTEGONHWkqj-x3-207">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JNSrJHHTEGONHWkqj-x3-212" value="Pred" style="html=1;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="JNSrJHHTEGONHWkqj-x3-212" value="Pred" style="html=1;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="1710" y="666.93" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="JNSrJHHTEGONHWkqj-x3-216" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;startArrow=block;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="JNSrJHHTEGONHWkqj-x3-207" target="JNSrJHHTEGONHWkqj-x3-210">
@@ -254,7 +254,7 @@
           <mxGeometry x="200" y="23" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="JNSrJHHTEGONHWkqj-x3-230" value="&lt;ol&gt;&lt;li&gt;monitor复用主流程状态转移逻辑？&lt;/li&gt;&lt;li&gt;使用sqlite数据为主？&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d6b656;fillColor=#fff2cc;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="440" y="652" width="310" height="80" as="geometry" />
+          <mxGeometry x="440" y="622" width="310" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
