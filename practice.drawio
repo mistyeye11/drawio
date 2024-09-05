@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0" version="24.7.6">
   <diagram name="第 1 页" id="7KTaMBhgqVzbro8H5_XD">
-    <mxGraphModel dx="998" dy="1936" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="409" dy="1289" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -214,7 +214,7 @@
         <mxCell id="JNSrJHHTEGONHWkqj-x3-207" value="execute(context)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="JNSrJHHTEGONHWkqj-x3-208">
           <mxGeometry y="49.999999999999886" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JNSrJHHTEGONHWkqj-x3-210" value="&lt;div&gt;Collect&lt;/div&gt;&lt;div&gt;行为逻辑&lt;br&gt;&lt;/div&gt;" style="html=1;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="JNSrJHHTEGONHWkqj-x3-210" value="&lt;div&gt;Collect&lt;/div&gt;&lt;div&gt;行为逻辑+数据管理&lt;br&gt;&lt;/div&gt;" style="html=1;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1450" y="699.93" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="JNSrJHHTEGONHWkqj-x3-217" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;endArrow=block;endFill=0;" edge="1" parent="1" source="JNSrJHHTEGONHWkqj-x3-211" target="JNSrJHHTEGONHWkqj-x3-207">
