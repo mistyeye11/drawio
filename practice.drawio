@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0" version="24.7.6">
   <diagram name="第 1 页" id="7KTaMBhgqVzbro8H5_XD">
-    <mxGraphModel dx="998" dy="1536" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="998" dy="1936" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -143,13 +143,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JNSrJHHTEGONHWkqj-x3-170" value="&lt;div align=&quot;left&quot;&gt;&lt;ol&gt;&lt;li&gt;&lt;strike&gt;状态转移的更好设计&lt;/strike&gt;&lt;/li&gt;&lt;li&gt;Job类定位模糊、职责过多&lt;/li&gt;&lt;li&gt;Job类初始化设计&lt;br&gt;&lt;/li&gt;&lt;li&gt;Job类在Scheduler复用&lt;/li&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d6b656;fillColor=#fff2cc;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1420" y="191" width="250" height="140" as="geometry" />
+          <mxGeometry x="1285" y="-80" width="250" height="140" as="geometry" />
         </mxCell>
         <mxCell id="JNSrJHHTEGONHWkqj-x3-171" value="调度器" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#2D7600;fillColor=#60a917;fontSize=16;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="790" y="161" width="70" height="30" as="geometry" />
+          <mxGeometry x="860" y="170" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JNSrJHHTEGONHWkqj-x3-172" value="任务" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#2D7600;fillColor=#60a917;fontSize=16;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="1265" y="161" width="60" height="30" as="geometry" />
+          <mxGeometry x="1230" y="170" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JNSrJHHTEGONHWkqj-x3-174" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="1080" y="325.08" width="110" height="90" as="geometry" />
@@ -243,6 +243,9 @@
         </mxCell>
         <mxCell id="JNSrJHHTEGONHWkqj-x3-222" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;endArrow=open;endFill=0;" edge="1" parent="1" source="JNSrJHHTEGONHWkqj-x3-53" target="JNSrJHHTEGONHWkqj-x3-203">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JNSrJHHTEGONHWkqj-x3-225" value="步骤" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#2D7600;fillColor=#60a917;fontSize=16;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1575" y="170" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
