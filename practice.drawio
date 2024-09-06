@@ -163,8 +163,8 @@
         <mxCell id="JNSrJHHTEGONHWkqj-x3-53" value="&lt;div&gt;Job&lt;/div&gt;&lt;div&gt;运行实例&lt;/div&gt;&lt;div&gt;main loop&lt;br&gt;&lt;/div&gt;" style="html=1;whiteSpace=wrap;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="JNSrJHHTEGONHWkqj-x3-176">
           <mxGeometry width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="JNSrJHHTEGONHWkqj-x3-111" value="run()" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="JNSrJHHTEGONHWkqj-x3-176">
-          <mxGeometry y="50" width="50" height="30" as="geometry" />
+        <mxCell id="JNSrJHHTEGONHWkqj-x3-111" value="execute()" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="JNSrJHHTEGONHWkqj-x3-176">
+          <mxGeometry y="50" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JNSrJHHTEGONHWkqj-x3-178" value="NEXT" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#82b366;fillColor=none;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="1538" y="1060" width="60" height="30" as="geometry" />
@@ -193,8 +193,8 @@
         <mxCell id="JNSrJHHTEGONHWkqj-x3-203" value="&lt;div&gt;Step&lt;/div&gt;&lt;div&gt;&lt;i&gt;empty&lt;/i&gt;&lt;/div&gt;" style="html=1;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;dashed=1;" vertex="1" parent="JNSrJHHTEGONHWkqj-x3-208">
           <mxGeometry width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="JNSrJHHTEGONHWkqj-x3-207" value="execute(context)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="JNSrJHHTEGONHWkqj-x3-208">
-          <mxGeometry y="49.999999999999886" width="110" height="30" as="geometry" />
+        <mxCell id="JNSrJHHTEGONHWkqj-x3-207" value="execute()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="JNSrJHHTEGONHWkqj-x3-208">
+          <mxGeometry x="20" y="49.999999999999886" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JNSrJHHTEGONHWkqj-x3-210" value="&lt;div&gt;CollectStep&lt;/div&gt;&lt;div&gt;一次性动作&lt;br&gt;&lt;/div&gt;" style="html=1;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="1450" y="666.93" width="110" height="50" as="geometry" />
