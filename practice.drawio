@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0" version="24.7.6">
   <diagram name="第 1 页" id="7KTaMBhgqVzbro8H5_XD">
-    <mxGraphModel dx="332" dy="805" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="625" dy="1127" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -160,7 +160,7 @@
         <mxCell id="JNSrJHHTEGONHWkqj-x3-176" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="1210" y="541.9300000000001" width="110" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="JNSrJHHTEGONHWkqj-x3-53" value="&lt;div&gt;Job&lt;/div&gt;&lt;div&gt;运行实例&lt;/div&gt;&lt;div&gt;main loop&lt;br&gt;&lt;/div&gt;" style="html=1;whiteSpace=wrap;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="JNSrJHHTEGONHWkqj-x3-176">
+        <mxCell id="JNSrJHHTEGONHWkqj-x3-53" value="&lt;div&gt;Job&lt;/div&gt;&lt;div&gt;运行实例&lt;/div&gt;&lt;div&gt;可复用的执行逻辑&lt;br&gt;&lt;/div&gt;" style="html=1;whiteSpace=wrap;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="JNSrJHHTEGONHWkqj-x3-176">
           <mxGeometry width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="JNSrJHHTEGONHWkqj-x3-111" value="execute()" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="JNSrJHHTEGONHWkqj-x3-176">
@@ -196,7 +196,7 @@
         <mxCell id="JNSrJHHTEGONHWkqj-x3-207" value="execute()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="JNSrJHHTEGONHWkqj-x3-208">
           <mxGeometry x="20" y="49.999999999999886" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JNSrJHHTEGONHWkqj-x3-210" value="&lt;div&gt;CollectStep&lt;/div&gt;&lt;div&gt;一次性动作&lt;br&gt;&lt;/div&gt;" style="html=1;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;dashed=1;" vertex="1" parent="1">
+        <mxCell id="JNSrJHHTEGONHWkqj-x3-210" value="&lt;div&gt;CollectStep&lt;/div&gt;&lt;div&gt;执行逻辑&lt;br&gt;&lt;/div&gt;" style="html=1;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="1450" y="666.93" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="JNSrJHHTEGONHWkqj-x3-217" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;endArrow=block;endFill=0;" edge="1" parent="1" source="JNSrJHHTEGONHWkqj-x3-211" target="JNSrJHHTEGONHWkqj-x3-207">
