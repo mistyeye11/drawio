@@ -121,9 +121,6 @@
         <mxCell id="JNSrJHHTEGONHWkqj-x3-155" value="PREDICT" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="1963" y="900" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JNSrJHHTEGONHWkqj-x3-157" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;check param&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#6c8ebf;fillColor=#dae8fc;fontSize=16;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="1337" y="940" width="90" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="JNSrJHHTEGONHWkqj-x3-164" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="JNSrJHHTEGONHWkqj-x3-158" target="JNSrJHHTEGONHWkqj-x3-113">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
