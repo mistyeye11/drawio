@@ -208,9 +208,6 @@
         <mxCell id="JNSrJHHTEGONHWkqj-x3-225" value="步骤" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#2D7600;fillColor=#60a917;fontSize=16;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="1575" y="224" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JNSrJHHTEGONHWkqj-x3-230" value="&lt;ol&gt;&lt;li&gt;monitor复用主流程状态转移逻辑？&lt;/li&gt;&lt;li&gt;使用sqlite数据为主？&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d6b656;fillColor=#fff2cc;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="550" y="650" width="310" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="JNSrJHHTEGONHWkqj-x3-233" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="1468" y="542.0700000000002" width="110" height="79.92999999999984" as="geometry" />
         </mxCell>
