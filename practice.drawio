@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0" version="24.7.6">
   <diagram name="第 1 页" id="7KTaMBhgqVzbro8H5_XD">
-    <mxGraphModel dx="882" dy="1408" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2676" dy="3380" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -168,8 +168,8 @@
         </mxCell>
         <mxCell id="JNSrJHHTEGONHWkqj-x3-199" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="580" y="833" as="sourcePoint" />
-            <mxPoint x="2290" y="833" as="targetPoint" />
+            <mxPoint x="547" y="833" as="sourcePoint" />
+            <mxPoint x="2257" y="833" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JNSrJHHTEGONHWkqj-x3-210" value="&lt;div&gt;CollectStep&lt;/div&gt;&lt;div&gt;执行逻辑&lt;br&gt;&lt;/div&gt;" style="html=1;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
@@ -259,6 +259,12 @@
               <mxPoint x="1360" y="240" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="JNSrJHHTEGONHWkqj-x3-261" value="流程图" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="547" y="840" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JNSrJHHTEGONHWkqj-x3-262" value="&lt;div&gt;类图&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="547" y="800" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
