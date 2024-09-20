@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0" version="24.7.12">
   <diagram name="第 1 页" id="7KTaMBhgqVzbro8H5_XD">
-    <mxGraphModel dx="465" dy="994" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1070" dy="1690" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -308,11 +308,10 @@
         <mxCell id="EudtSMNAYD2UXil9M96t-16" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;fillColor=#e1d5e7;strokeColor=#9673a6;" edge="1" parent="1" source="EudtSMNAYD2UXil9M96t-13" target="EudtSMNAYD2UXil9M96t-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EudtSMNAYD2UXil9M96t-109" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#e1d5e7;strokeColor=#9673a6;" edge="1" parent="1" source="EudtSMNAYD2UXil9M96t-13" target="EudtSMNAYD2UXil9M96t-111">
+        <mxCell id="EudtSMNAYD2UXil9M96t-118" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;fillColor=#e1d5e7;strokeColor=#9673a6;" edge="1" parent="1" source="EudtSMNAYD2UXil9M96t-13" target="EudtSMNAYD2UXil9M96t-18">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1120" y="1870" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1180" y="1900" />
+              <mxPoint x="1170" y="1990" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -331,14 +330,8 @@
         <mxCell id="EudtSMNAYD2UXil9M96t-18" value="PRIORITY" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1000" y="1580" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EudtSMNAYD2UXil9M96t-112" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;fillColor=#e1d5e7;strokeColor=#9673a6;" edge="1" parent="1" source="EudtSMNAYD2UXil9M96t-111" target="EudtSMNAYD2UXil9M96t-18">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="EudtSMNAYD2UXil9M96t-111" value="SUSPEND" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="1000" y="1730" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="EudtSMNAYD2UXil9M96t-113" value="human" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="960" y="1730" width="30" height="60" as="geometry" />
+          <mxGeometry x="1090" y="1800" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
