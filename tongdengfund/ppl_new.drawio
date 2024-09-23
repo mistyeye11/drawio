@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0" version="24.7.12">
   <diagram name="第 1 页" id="7KTaMBhgqVzbro8H5_XD">
-    <mxGraphModel dx="323" dy="845" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="451" dy="994" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -60,7 +60,7 @@
         <mxCell id="JNSrJHHTEGONHWkqj-x3-172" value="任务" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#2D7600;fillColor=#60a917;fontSize=16;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="1230" y="232" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JNSrJHHTEGONHWkqj-x3-175" value="" style="group" parent="1" vertex="1" connectable="0">
+        <mxCell id="JNSrJHHTEGONHWkqj-x3-175" value="" style="group;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="850" y="549.9300000000001" width="110" height="140" as="geometry" />
         </mxCell>
         <mxCell id="JNSrJHHTEGONHWkqj-x3-56" value="&lt;div&gt;Proc&lt;/div&gt;运行态系统信息" style="html=1;whiteSpace=wrap;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="JNSrJHHTEGONHWkqj-x3-175" vertex="1">
@@ -69,7 +69,7 @@
         <mxCell id="JNSrJHHTEGONHWkqj-x3-108" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;core_id&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;jid&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;pid&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;hdd&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;ssd&lt;br style=&quot;font-size: 12px;&quot;&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" parent="JNSrJHHTEGONHWkqj-x3-175" vertex="1">
           <mxGeometry y="50" width="70" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="JNSrJHHTEGONHWkqj-x3-176" value="" style="group" parent="1" vertex="1" connectable="0">
+        <mxCell id="JNSrJHHTEGONHWkqj-x3-176" value="" style="group;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="1210" y="549.9300000000001" width="110" height="80" as="geometry" />
         </mxCell>
         <mxCell id="JNSrJHHTEGONHWkqj-x3-53" value="&lt;div&gt;Job&lt;/div&gt;&lt;div&gt;运行实例&lt;/div&gt;&lt;div&gt;可复用的执行逻辑&lt;br&gt;&lt;/div&gt;" style="html=1;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="JNSrJHHTEGONHWkqj-x3-176" vertex="1">
@@ -114,7 +114,7 @@
         <mxCell id="JNSrJHHTEGONHWkqj-x3-225" value="步骤" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#2D7600;fillColor=#60a917;fontSize=16;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="1575" y="232" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JNSrJHHTEGONHWkqj-x3-233" value="" style="group" parent="1" vertex="1" connectable="0">
+        <mxCell id="JNSrJHHTEGONHWkqj-x3-233" value="" style="group;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="1468" y="550.0700000000002" width="110" height="84.92999999999984" as="geometry" />
         </mxCell>
         <mxCell id="JNSrJHHTEGONHWkqj-x3-203" value="&lt;div&gt;Step&lt;/div&gt;&lt;div&gt;&lt;i&gt;empty&lt;/i&gt;&lt;/div&gt;" style="html=1;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;" parent="JNSrJHHTEGONHWkqj-x3-233" vertex="1">
@@ -126,13 +126,13 @@
         <mxCell id="JNSrJHHTEGONHWkqj-x3-196" value="&lt;br&gt;&lt;div&gt;SQLiteDB&lt;/div&gt;" style="html=1;whiteSpace=wrap;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;strokeWidth=2;shape=mxgraph.flowchart.database;" parent="1" vertex="1">
           <mxGeometry x="1210" y="710" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="JNSrJHHTEGONHWkqj-x3-236" value="" style="group" parent="1" vertex="1" connectable="0">
+        <mxCell id="JNSrJHHTEGONHWkqj-x3-236" value="" style="group;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="1040" y="38" width="360" height="113" as="geometry" />
         </mxCell>
         <mxCell id="JNSrJHHTEGONHWkqj-x3-226" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="JNSrJHHTEGONHWkqj-x3-236" vertex="1">
           <mxGeometry width="360" height="113" as="geometry" />
         </mxCell>
-        <mxCell id="JNSrJHHTEGONHWkqj-x3-174" value="" style="group" parent="JNSrJHHTEGONHWkqj-x3-236" vertex="1" connectable="0">
+        <mxCell id="JNSrJHHTEGONHWkqj-x3-174" value="" style="group;" parent="JNSrJHHTEGONHWkqj-x3-236" vertex="1" connectable="0">
           <mxGeometry x="40" y="23" width="110" height="90" as="geometry" />
         </mxCell>
         <mxCell id="JNSrJHHTEGONHWkqj-x3-44" value="Resources&lt;br&gt;&lt;div&gt;singleton&lt;br&gt;&lt;/div&gt;" style="html=1;whiteSpace=wrap;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="JNSrJHHTEGONHWkqj-x3-174" vertex="1">
@@ -226,7 +226,7 @@
         <mxCell id="EudtSMNAYD2UXil9M96t-121" value="/path/to/new/cfg" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="920" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EudtSMNAYD2UXil9M96t-127" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="EudtSMNAYD2UXil9M96t-127" value="" style="group;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="840" y="920" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EudtSMNAYD2UXil9M96t-1" value="&lt;div&gt;TODO&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="EudtSMNAYD2UXil9M96t-127">
@@ -267,6 +267,9 @@
         </mxCell>
         <mxCell id="EudtSMNAYD2UXil9M96t-148" value="PRED" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1340" y="1500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EudtSMNAYD2UXil9M96t-149" value="queue" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="760" y="1481" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
