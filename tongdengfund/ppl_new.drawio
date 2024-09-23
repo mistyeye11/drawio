@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0" version="24.7.16">
   <diagram name="第 1 页" id="7KTaMBhgqVzbro8H5_XD">
-    <mxGraphModel dx="1820" dy="1985" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1120" dy="1246" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -292,7 +292,7 @@
           <mxGeometry x="487" y="2260" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="EudtSMNAYD2UXil9M96t-170" value="&lt;div&gt;用queue文件夹管理任务状态和任务进度？&lt;/div&gt;&lt;div&gt;方便定位任务出错位置？&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d6b656;fillColor=#fff2cc;fontSize=12;fontFamily=Helvetica;" parent="1" vertex="1">
-          <mxGeometry x="1045" y="2210" width="250" height="40" as="geometry" />
+          <mxGeometry x="1060" y="2190" width="250" height="40" as="geometry" />
         </mxCell>
         <mxCell id="EudtSMNAYD2UXil9M96t-172" value="jid？实时移动到skip" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d6b656;fillColor=#fff2cc;fontSize=12;fontFamily=Helvetica;" parent="1" vertex="1">
           <mxGeometry x="310" y="1805" width="130" height="30" as="geometry" />
