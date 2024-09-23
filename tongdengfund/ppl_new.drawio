@@ -1,20 +1,14 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0" version="24.7.12">
   <diagram name="第 1 页" id="7KTaMBhgqVzbro8H5_XD">
-    <mxGraphModel dx="1205" dy="1408" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="201" dy="235" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="EudtSMNAYD2UXil9M96t-143" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="1670" width="1080" height="390" as="geometry" />
         </mxCell>
-        <mxCell id="EudtSMNAYD2UXil9M96t-178" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;autosize=1;resizable=0;startSize=8;endSize=8;curved=1;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="900.29" y="2585" as="sourcePoint" />
-            <mxPoint x="900.6999999999999" y="1605" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="EudtSMNAYD2UXil9M96t-167" value="&lt;div&gt;resources&lt;/div&gt;&lt;div&gt;&lt;i&gt;queue&lt;/i&gt;&lt;/div&gt;&lt;div&gt;&lt;i&gt;cores&lt;br&gt;&lt;/i&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="522" y="2240" width="120" height="80" as="geometry" />
+          <mxGeometry x="522" y="2080" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="EudtSMNAYD2UXil9M96t-14" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="EudtSMNAYD2UXil9M96t-3" target="EudtSMNAYD2UXil9M96t-13">
           <mxGeometry relative="1" as="geometry" />
@@ -286,7 +280,7 @@
           <mxGeometry x="1270" y="1790" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EudtSMNAYD2UXil9M96t-159" value="scheduler" style="html=1;whiteSpace=wrap;rounded=0;strokeColor=#6c8ebf;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#dae8fc;" vertex="1" parent="1">
-          <mxGeometry x="527" y="2340" width="110" height="50" as="geometry" />
+          <mxGeometry x="527" y="2180" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="EudtSMNAYD2UXil9M96t-162" value="jobrun实例" style="whiteSpace=wrap;html=1;align=center;rounded=0;strokeColor=#6c8ebf;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#dae8fc;" vertex="1" parent="1">
           <mxGeometry x="762" y="2230" width="110" height="50" as="geometry" />
@@ -295,10 +289,10 @@
           <mxGeometry x="397" y="1960" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EudtSMNAYD2UXil9M96t-169" value="scheduler是否关心执行进度？" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d6b656;fillColor=#fff2cc;fontSize=12;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="487" y="2420" width="180" height="30" as="geometry" />
+          <mxGeometry x="487" y="2260" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="EudtSMNAYD2UXil9M96t-170" value="&lt;div&gt;用queue文件夹管理任务进度和？&lt;/div&gt;&lt;div&gt;方便运维定位任务出错位置？&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d6b656;fillColor=#fff2cc;fontSize=12;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="1200" y="2230" width="200" height="40" as="geometry" />
+          <mxGeometry x="1070" y="2210" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="EudtSMNAYD2UXil9M96t-172" value="jid？实时移动到skip" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d6b656;fillColor=#fff2cc;fontSize=12;fontFamily=Helvetica;" vertex="1" parent="1">
           <mxGeometry x="417" y="1690" width="130" height="30" as="geometry" />
@@ -344,6 +338,12 @@
         </mxCell>
         <mxCell id="EudtSMNAYD2UXil9M96t-190" value="&lt;div&gt;core_id&lt;/div&gt;&lt;div&gt;jid&lt;/div&gt;&lt;div&gt;pid&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="EudtSMNAYD2UXil9M96t-208">
           <mxGeometry y="80" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EudtSMNAYD2UXil9M96t-209" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;autosize=1;resizable=0;startSize=8;endSize=8;curved=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="900" y="2350" as="sourcePoint" />
+            <mxPoint x="899.6999999999999" y="1605" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
