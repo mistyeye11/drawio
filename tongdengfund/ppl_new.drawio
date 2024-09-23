@@ -304,6 +304,9 @@
         <mxCell id="EudtSMNAYD2UXil9M96t-170" value="&lt;div&gt;用queue文件夹管理任务进度和？&lt;/div&gt;&lt;div&gt;方便运维定位任务出错位置？&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d6b656;fillColor=#fff2cc;fontSize=12;fontFamily=Helvetica;" vertex="1" parent="1">
           <mxGeometry x="1250" y="1590" width="200" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="EudtSMNAYD2UXil9M96t-172" value="jid？" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d6b656;fillColor=#fff2cc;fontSize=12;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="670" y="2000" width="50" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
