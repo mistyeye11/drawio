@@ -369,6 +369,9 @@
         <mxCell id="3bLYsatjawPUWJ9z33gw-4" value="JobInfo" style="whiteSpace=wrap;html=1;align=center;rounded=0;strokeColor=#6c8ebf;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#dae8fc;" vertex="1" parent="1">
           <mxGeometry x="925" y="2240" width="110" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="3bLYsatjawPUWJ9z33gw-8" value="NEW" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="1560" width="210" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
