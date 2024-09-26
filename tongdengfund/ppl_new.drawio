@@ -298,7 +298,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="EudtSMNAYD2UXil9M96t-173" value="&lt;div&gt;ERR&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="730" y="1960" width="120" height="60" as="geometry" />
+          <mxGeometry x="730" y="1840" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EudtSMNAYD2UXil9M96t-185" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;autosize=1;resizable=0;startSize=8;endSize=8;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" source="EudtSMNAYD2UXil9M96t-174" target="EudtSMNAYD2UXil9M96t-177" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -343,19 +343,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="3bLYsatjawPUWJ9z33gw-2" value="启动" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#6c8ebf;fillColor=#dae8fc;fontSize=12;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="400" y="1855" width="50" height="30" as="geometry" />
+          <mxGeometry x="400" y="1820" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3bLYsatjawPUWJ9z33gw-4" value="Step" style="whiteSpace=wrap;html=1;align=center;rounded=0;strokeColor=#6c8ebf;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#dae8fc;" vertex="1" parent="1">
           <mxGeometry x="930" y="2190" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="3bLYsatjawPUWJ9z33gw-9" value="结束" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d79b00;fillColor=#ffe6cc;fontSize=12;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="400" y="1975" width="50" height="30" as="geometry" />
+          <mxGeometry x="400" y="1900" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3bLYsatjawPUWJ9z33gw-13" value="入队" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#82b366;fillColor=#d5e8d4;fontSize=12;fontFamily=Helvetica;" vertex="1" parent="1">
           <mxGeometry x="400" y="1735" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3bLYsatjawPUWJ9z33gw-17" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;rounded=0;strokeColor=#9673a6;align=center;fontFamily=Helvetica;fontSize=12;fillColor=#e1d5e7;" vertex="1" parent="1">
-          <mxGeometry x="795" y="1850" width="20" height="40" as="geometry" />
+          <mxGeometry x="855" y="1780" width="20" height="40" as="geometry" />
         </mxCell>
         <mxCell id="EudtSMNAYD2UXil9M96t-162" value="Job" style="whiteSpace=wrap;html=1;align=center;rounded=0;strokeColor=#6c8ebf;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#dae8fc;" parent="1" vertex="1">
           <mxGeometry x="845" y="2280" width="110" height="50" as="geometry" />
