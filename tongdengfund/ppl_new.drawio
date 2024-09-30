@@ -335,7 +335,7 @@
         </mxCell>
         <mxCell id="EudtSMNAYD2UXil9M96t-209" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;autosize=1;resizable=0;startSize=8;endSize=8;curved=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="900" y="2330" as="sourcePoint" />
+            <mxPoint x="900" y="2260" as="sourcePoint" />
             <mxPoint x="899.6999999999999" y="1605" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -360,9 +360,6 @@
         <mxCell id="3bLYsatjawPUWJ9z33gw-17" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;rounded=0;strokeColor=#9673a6;align=center;fontFamily=Helvetica;fontSize=12;fillColor=#e1d5e7;" parent="1" vertex="1">
           <mxGeometry x="855" y="1780" width="20" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="EudtSMNAYD2UXil9M96t-162" value="Job" style="whiteSpace=wrap;html=1;align=center;rounded=0;strokeColor=#6c8ebf;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#dae8fc;" parent="1" vertex="1">
-          <mxGeometry x="845" y="2280" width="110" height="50" as="geometry" />
-        </mxCell>
         <mxCell id="3bLYsatjawPUWJ9z33gw-29" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.clock;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="653" y="2261" width="35" height="35" as="geometry" />
         </mxCell>
@@ -374,6 +371,15 @@
         </mxCell>
         <mxCell id="3bLYsatjawPUWJ9z33gw-34" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;rounded=0;strokeColor=#9673a6;align=center;fontFamily=Helvetica;fontSize=12;fillColor=#e1d5e7;" parent="1" vertex="1">
           <mxGeometry x="572" y="1590" width="20" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ab65V0FN9wp6c8DkQpJo-4" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;autosize=1;resizable=0;startSize=8;endSize=8;curved=1;" edge="1" parent="1" target="EudtSMNAYD2UXil9M96t-162">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="900" y="2330" as="sourcePoint" />
+            <mxPoint x="899.6999999999999" y="1605" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EudtSMNAYD2UXil9M96t-162" value="Job" style="whiteSpace=wrap;html=1;align=center;rounded=0;strokeColor=#6c8ebf;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#dae8fc;" parent="1" vertex="1">
+          <mxGeometry x="845" y="2280" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
