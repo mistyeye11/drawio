@@ -285,6 +285,11 @@
         <mxCell id="JjC8GmDzCouIF5yGvR2P-5" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="4sBezoMhmKj3X2lku0w--9" target="4sBezoMhmKj3X2lku0w--18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="JjC8GmDzCouIF5yGvR2P-6" value="only delete" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="JjC8GmDzCouIF5yGvR2P-5">
+          <mxGeometry x="0.4622" y="5" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="4sBezoMhmKj3X2lku0w--9" value="&lt;div&gt;PRIORITY&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="581" y="1550" width="120" height="60" as="geometry" />
         </mxCell>
@@ -312,7 +317,7 @@
         <mxCell id="4sBezoMhmKj3X2lku0w--17" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;startSize=8;endSize=8;endArrow=open;endFill=0;" edge="1" parent="1" source="4sBezoMhmKj3X2lku0w--46" target="4sBezoMhmKj3X2lku0w--35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4sBezoMhmKj3X2lku0w--18" value="&lt;div&gt;DELECT&lt;/div&gt;&lt;div&gt;——&lt;br&gt;&lt;/div&gt;&lt;div&gt;SKIPPED&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+        <mxCell id="4sBezoMhmKj3X2lku0w--18" value="&lt;div&gt;DELETE&lt;/div&gt;&lt;div&gt;——&lt;br&gt;&lt;/div&gt;&lt;div&gt;SKIPPED&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="461" y="1790" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4sBezoMhmKj3X2lku0w--19" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;autosize=1;resizable=0;startSize=8;endSize=8;dashed=1;fillColor=#e1d5e7;strokeColor=#9673a6;" edge="1" parent="1" source="4sBezoMhmKj3X2lku0w--20" target="4sBezoMhmKj3X2lku0w--27">
