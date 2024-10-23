@@ -91,7 +91,7 @@
         <mxCell id="-Ixc3mLPqkYE0-Hi2vGX-31" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;startSize=8;endSize=8;" edge="1" parent="1" source="-Ixc3mLPqkYE0-Hi2vGX-28" target="-Ixc3mLPqkYE0-Hi2vGX-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-Ixc3mLPqkYE0-Hi2vGX-28" value="select" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="-Ixc3mLPqkYE0-Hi2vGX-28" value="&lt;div&gt;select&lt;/div&gt;&lt;div&gt;&lt;i&gt;corr_sharpe_ratio&lt;/i&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="640" y="1420" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-Ixc3mLPqkYE0-Hi2vGX-30" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=default;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;rounded=0;" vertex="1" parent="1">
@@ -127,7 +127,7 @@
             <mxPoint x="-90" y="760" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-Ixc3mLPqkYE0-Hi2vGX-48" value="beta" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#82b366;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#d5e8d4;" vertex="1" parent="1">
+        <mxCell id="-Ixc3mLPqkYE0-Hi2vGX-48" value="beta" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#666666;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#f5f5f5;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="-360" y="710" width="40" height="200" as="geometry" />
         </mxCell>
       </root>
