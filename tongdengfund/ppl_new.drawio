@@ -487,6 +487,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="x1p1duhrlDKBPW2bh0um-14" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#d6b656;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fillColor=#fff2cc;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="700" y="90" width="310" height="170" as="geometry" />
+        </mxCell>
         <mxCell id="x1p1duhrlDKBPW2bh0um-1" value="调度属性" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fontColor=default;fillColor=default;shape=note;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
           <mxGeometry x="160" y="120" width="120" height="60" as="geometry" />
         </mxCell>
@@ -511,14 +514,17 @@
             <mxPoint x="670" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="x1p1duhrlDKBPW2bh0um-7" value="数据" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="870" y="320" width="80" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="x1p1duhrlDKBPW2bh0um-8" value="adapter" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="707" y="340" width="120" height="60" as="geometry" />
+        <mxCell id="x1p1duhrlDKBPW2bh0um-8" value="step1&lt;br&gt;adapter" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="740" y="150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="x1p1duhrlDKBPW2bh0um-9" value="流程控制器" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="460" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x1p1duhrlDKBPW2bh0um-10" value="step1&lt;br&gt;&lt;div&gt;input&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="890" y="130" width="80" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="x1p1duhrlDKBPW2bh0um-15" value="..." style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#d6b656;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fillColor=#fff2cc;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="700" y="290" width="310" height="170" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
