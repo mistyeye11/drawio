@@ -49,10 +49,19 @@
           <mxGeometry x="380" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CQaIMBE6hB9jnADIV1aD-6" value="&lt;div&gt;StockMakeSectorQuote&lt;/div&gt;&lt;div&gt;(t_ns, isec, mid_px)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="560" y="200" width="120" height="60" as="geometry" />
+          <mxGeometry x="560" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CQaIMBE6hB9jnADIV1aD-10" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;startSize=8;endSize=8;" edge="1" parent="1" source="CQaIMBE6hB9jnADIV1aD-8" target="CQaIMBE6hB9jnADIV1aD-9">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CQaIMBE6hB9jnADIV1aD-8" value="&lt;div&gt;StocksSetWeight&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="560" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CQaIMBE6hB9jnADIV1aD-9" value="StocksMakeSectorQuoteInit" style="whiteSpace=wrap;html=1;rounded=0;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="800" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CQaIMBE6hB9jnADIV1aD-11" value="&lt;div align=&quot;left&quot;&gt;set time threshold&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;set weight&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontFamily=Helvetica;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="560" y="170" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
