@@ -33,17 +33,23 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="CQaIMBE6hB9jnADIV1aD-1" value="&lt;div&gt;Process(Quote)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="210" width="120" height="60" as="geometry" />
+        <mxCell id="CQaIMBE6hB9jnADIV1aD-1" value="&lt;div&gt;Process(Quote)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="160" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CQaIMBE6hB9jnADIV1aD-2" value="&lt;div&gt;Process(StockQuote)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="341" width="120" height="60" as="geometry" />
+        <mxCell id="CQaIMBE6hB9jnADIV1aD-2" value="&lt;div&gt;Process(StockQuote)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="160" y="320" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CQaIMBE6hB9jnADIV1aD-3" value="&lt;div&gt;Process(StockTrade)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="460" width="120" height="60" as="geometry" />
+        <mxCell id="CQaIMBE6hB9jnADIV1aD-3" value="&lt;div&gt;Process(StockTrade)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="160" y="440" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CQaIMBE6hB9jnADIV1aD-4" value="&lt;div&gt;SigGen&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CQaIMBE6hB9jnADIV1aD-4" value="&lt;div&gt;SigGen&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="160" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CQaIMBE6hB9jnADIV1aD-5" value="BackgroundProcess" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="380" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CQaIMBE6hB9jnADIV1aD-6" value="StockMakeSectorQuote" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="560" y="200" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
