@@ -226,8 +226,11 @@
         <mxCell id="_J6-pG9I_Zbh-F4R5Bow-50" value="StocksResetWeight" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=default;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="350" y="500" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_J6-pG9I_Zbh-F4R5Bow-56" value="&lt;div&gt;- _idxpxwt_is_set&lt;/div&gt;&lt;div&gt;- _idxpxwt_set_time_threshold_ns&lt;/div&gt;&lt;div&gt;- _idxpxwt_not_usable_alarm_threshold_ns&lt;br&gt;&lt;/div&gt;&lt;div&gt;- _weight_set_ns&lt;/div&gt;&lt;div&gt;- _weight_reset_ns_ar&lt;br&gt;&lt;/div&gt;&lt;div&gt;- _weight_reset_ns&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontFamily=Helvetica;fontColor=default;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="_J6-pG9I_Zbh-F4R5Bow-56" value="&lt;div&gt;- _idxpxwt_is_set&lt;/div&gt;&lt;div&gt;- _idxpxwt_set_time_threshold_ns&lt;/div&gt;&lt;div&gt;- _idxpxwt_not_usable_alarm_threshold_ns&lt;br&gt;&lt;/div&gt;&lt;div&gt;- _weight_set_ns&lt;/div&gt;&lt;div&gt;- _weight_reset_ns_ar&lt;br&gt;&lt;/div&gt;&lt;div&gt;- _weight_reset_ns&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#36393d;fillColor=#ffff88;fontSize=12;fontFamily=Helvetica;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="500" y="480" width="250" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="_J6-pG9I_Zbh-F4R5Bow-59" value="&lt;div&gt;- shanghai_booktop&lt;/div&gt;&lt;div&gt;- shenzhen_booktop&lt;br&gt;&lt;/div&gt;&lt;div&gt;- turnover&lt;/div&gt;&lt;div&gt;- sectorquote_last_turnover&lt;br&gt;&lt;/div&gt;&lt;div&gt;- vol&lt;/div&gt;&lt;div&gt;- sectorquote_last_volume&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#36393d;fillColor=#ffff88;fontSize=12;fontFamily=Helvetica;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="400" y="630" width="170" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
