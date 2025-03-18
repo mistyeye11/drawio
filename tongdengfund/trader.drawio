@@ -34,7 +34,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="_J6-pG9I_Zbh-F4R5Bow-54" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="380" width="370" height="200" as="geometry" />
+          <mxGeometry x="330" y="370" width="360" height="210" as="geometry" />
         </mxCell>
         <mxCell id="_J6-pG9I_Zbh-F4R5Bow-36" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;dashed=1;" edge="1" parent="1" source="CQaIMBE6hB9jnADIV1aD-1" target="CQaIMBE6hB9jnADIV1aD-5">
           <mxGeometry relative="1" as="geometry">
@@ -213,6 +213,9 @@
         </mxCell>
         <mxCell id="_J6-pG9I_Zbh-F4R5Bow-50" value="StocksResetWeight" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=default;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="350" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_J6-pG9I_Zbh-F4R5Bow-56" value="&lt;div&gt;- _idxpxwt_is_set&lt;/div&gt;&lt;div&gt;- _idxpxwt_set_time_threshold_ns&lt;/div&gt;&lt;div&gt;- _idxpxwt_not_usable_alarm_threshold_ns&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontFamily=Helvetica;fontColor=default;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="500" y="500" width="250" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
