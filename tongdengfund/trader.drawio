@@ -236,7 +236,19 @@
           <mxGeometry x="360" y="810" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_J6-pG9I_Zbh-F4R5Bow-63" value="_delta_price_threshold" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;fontSize=12;fontFamily=Helvetica;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="500" y="810" width="140" height="30" as="geometry" />
+          <mxGeometry x="360" y="870" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_J6-pG9I_Zbh-F4R5Bow-65" value="成份股" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="90" y="215" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_J6-pG9I_Zbh-F4R5Bow-66" value="权重" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="710" y="390" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_J6-pG9I_Zbh-F4R5Bow-67" value="板块" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="290" y="840" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_J6-pG9I_Zbh-F4R5Bow-70" value="板块行情" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="290" y="880" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
