@@ -70,18 +70,24 @@
         <mxCell id="_J6-pG9I_Zbh-F4R5Bow-2" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="CQaIMBE6hB9jnADIV1aD-5" target="CQaIMBE6hB9jnADIV1aD-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="_J6-pG9I_Zbh-F4R5Bow-48" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="CQaIMBE6hB9jnADIV1aD-5" target="CQaIMBE6hB9jnADIV1aD-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_J6-pG9I_Zbh-F4R5Bow-51" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="CQaIMBE6hB9jnADIV1aD-5" target="_J6-pG9I_Zbh-F4R5Bow-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="CQaIMBE6hB9jnADIV1aD-5" value="BackgroundProcess" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#82b366;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;labelBackgroundColor=default;fillColor=#d5e8d4;" parent="1" vertex="1">
           <mxGeometry x="160" y="390" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_J6-pG9I_Zbh-F4R5Bow-40" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="CQaIMBE6hB9jnADIV1aD-6" target="_J6-pG9I_Zbh-F4R5Bow-10">
+        <mxCell id="_J6-pG9I_Zbh-F4R5Bow-40" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="CQaIMBE6hB9jnADIV1aD-5" target="_J6-pG9I_Zbh-F4R5Bow-10">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="740" y="-10" />
+              <mxPoint x="690" y="-50" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="CQaIMBE6hB9jnADIV1aD-6" value="&lt;div&gt;StockMakeSectorQuote&lt;/div&gt;&lt;div&gt;(t_ns, isec, mid_px)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=default;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="350" y="500" width="120" height="60" as="geometry" />
+          <mxGeometry x="290" y="580" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CQaIMBE6hB9jnADIV1aD-10" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;startSize=8;endSize=8;" parent="1" source="CQaIMBE6hB9jnADIV1aD-8" target="CQaIMBE6hB9jnADIV1aD-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -189,6 +195,9 @@
         </mxCell>
         <mxCell id="_J6-pG9I_Zbh-F4R5Bow-46" value="fifo" style="whiteSpace=wrap;html=1;shape=cloud;perimeter=ellipsePerimeter;" vertex="1" parent="1">
           <mxGeometry x="-320" y="280" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_J6-pG9I_Zbh-F4R5Bow-50" value="StocksResetWeight" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=default;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="350" y="500" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
