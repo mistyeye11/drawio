@@ -90,8 +90,8 @@
         <mxCell id="_J6-pG9I_Zbh-F4R5Bow-11" value="SubscribeQuote" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-90" y="90" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_J6-pG9I_Zbh-F4R5Bow-15" value="- subscribe futures quotes" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontFamily=Helvetica;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="290" y="80" width="160" height="30" as="geometry" />
+        <mxCell id="_J6-pG9I_Zbh-F4R5Bow-15" value="&lt;div&gt;- subscribe futures quotes&lt;/div&gt;- init futures/stocks variables" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontFamily=Helvetica;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="290" y="90" width="170" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
