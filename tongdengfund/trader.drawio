@@ -29,7 +29,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="XbnGmYFS-fugYjQoW0vH" name="siggen">
-    <mxGraphModel dx="3341" dy="2122" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3088" dy="1979" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -229,8 +229,8 @@
         <mxCell id="_J6-pG9I_Zbh-F4R5Bow-56" value="&lt;div&gt;- _idxpxwt_is_set&lt;/div&gt;&lt;div&gt;- _idxpxwt_set_time_threshold_ns&lt;/div&gt;&lt;div&gt;- _idxpxwt_not_usable_alarm_threshold_ns&lt;br&gt;&lt;/div&gt;&lt;div&gt;- _weight_set_ns&lt;/div&gt;&lt;div&gt;- _weight_reset_ns_ar&lt;br&gt;&lt;/div&gt;&lt;div&gt;- _weight_reset_ns&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#36393d;fillColor=#ffff88;fontSize=12;fontFamily=Helvetica;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="500" y="480" width="250" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="_J6-pG9I_Zbh-F4R5Bow-59" value="&lt;div&gt;- shanghai_booktop(mid)&lt;/div&gt;&lt;div&gt;- shenzhen_booktop(mid)&lt;br&gt;&lt;/div&gt;&lt;div&gt;- turnover&lt;/div&gt;&lt;div&gt;- sectorquote_last_turnover&lt;br&gt;&lt;/div&gt;&lt;div&gt;- vol&lt;/div&gt;&lt;div&gt;- sectorquote_last_volume&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#36393d;fillColor=#ffff88;fontSize=12;fontFamily=Helvetica;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="400" y="620" width="170" height="100" as="geometry" />
+        <mxCell id="_J6-pG9I_Zbh-F4R5Bow-59" value="&lt;div&gt;- shanghai_booktop&lt;br&gt;&lt;/div&gt;&lt;div&gt;- shenzhen_booktop&lt;/div&gt;&lt;div&gt;- mid&lt;br&gt;&lt;/div&gt;&lt;div&gt;- turnover&lt;/div&gt;&lt;div&gt;- sectorquote_last_turnover&lt;br&gt;&lt;/div&gt;&lt;div&gt;- vol&lt;/div&gt;&lt;div&gt;- sectorquote_last_volume&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#36393d;fillColor=#ffff88;fontSize=12;fontFamily=Helvetica;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="400" y="615" width="170" height="110" as="geometry" />
         </mxCell>
         <mxCell id="_J6-pG9I_Zbh-F4R5Bow-60" value="&lt;span style=&quot;&quot;&gt;Sector::ProcessMode0&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="370" y="810" width="120" height="60" as="geometry" />
