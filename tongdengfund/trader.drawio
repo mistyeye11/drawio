@@ -86,8 +86,20 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="_J6-pG9I_Zbh-F4R5Bow-52" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;dashed=1;" edge="1" parent="1" source="CQaIMBE6hB9jnADIV1aD-6" target="CQaIMBE6hB9jnADIV1aD-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="220" y="580" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_J6-pG9I_Zbh-F4R5Bow-53" value="SectorQuote" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="_J6-pG9I_Zbh-F4R5Bow-52">
+          <mxGeometry x="0.0337" y="-13" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="CQaIMBE6hB9jnADIV1aD-6" value="&lt;div&gt;StockMakeSectorQuote&lt;/div&gt;&lt;div&gt;(t_ns, isec, mid_px)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=default;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="290" y="580" width="120" height="60" as="geometry" />
+          <mxGeometry x="294" y="585" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CQaIMBE6hB9jnADIV1aD-10" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;startSize=8;endSize=8;" parent="1" source="CQaIMBE6hB9jnADIV1aD-8" target="CQaIMBE6hB9jnADIV1aD-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -197,7 +209,7 @@
           <mxGeometry x="-320" y="280" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="_J6-pG9I_Zbh-F4R5Bow-50" value="StocksResetWeight" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=default;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="350" y="500" width="120" height="60" as="geometry" />
+          <mxGeometry x="354" y="500" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
