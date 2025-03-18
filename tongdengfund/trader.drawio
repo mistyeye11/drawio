@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0" version="26.0.6" pages="2">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0" version="26.1.1" pages="2">
   <diagram name="第 1 页" id="RYfCSMskEHPbSuxuIKtE">
     <mxGraphModel dx="732" dy="810" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -29,39 +29,69 @@
     </mxGraphModel>
   </diagram>
   <diagram id="XbnGmYFS-fugYjQoW0vH" name="siggen">
-    <mxGraphModel dx="853" dy="953" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1532" dy="953" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="CQaIMBE6hB9jnADIV1aD-1" value="&lt;div&gt;Process(Quote)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;fillColor=default;" vertex="1" parent="1">
+        <mxCell id="CQaIMBE6hB9jnADIV1aD-1" value="&lt;div&gt;Process(Quote)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;fillColor=default;" parent="1" vertex="1">
           <mxGeometry x="160" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CQaIMBE6hB9jnADIV1aD-2" value="&lt;div&gt;Process(StockQuote)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;fillColor=default;" vertex="1" parent="1">
+        <mxCell id="CQaIMBE6hB9jnADIV1aD-2" value="&lt;div&gt;Process(StockQuote)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;fillColor=default;" parent="1" vertex="1">
           <mxGeometry x="160" y="320" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CQaIMBE6hB9jnADIV1aD-3" value="&lt;div&gt;Process(StockTrade)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;fillColor=default;" vertex="1" parent="1">
+        <mxCell id="CQaIMBE6hB9jnADIV1aD-3" value="&lt;div&gt;Process(StockTrade)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;fillColor=default;" parent="1" vertex="1">
           <mxGeometry x="160" y="440" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CQaIMBE6hB9jnADIV1aD-4" value="&lt;div&gt;SigGen&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;fillColor=default;" vertex="1" parent="1">
+        <mxCell id="CQaIMBE6hB9jnADIV1aD-4" value="&lt;div&gt;SigGen&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;fillColor=default;" parent="1" vertex="1">
           <mxGeometry x="160" y="80" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CQaIMBE6hB9jnADIV1aD-5" value="BackgroundProcess" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="380" y="320" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="CQaIMBE6hB9jnADIV1aD-6" value="&lt;div&gt;StockMakeSectorQuote&lt;/div&gt;&lt;div&gt;(t_ns, isec, mid_px)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="560" y="320" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="CQaIMBE6hB9jnADIV1aD-10" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;startSize=8;endSize=8;" edge="1" parent="1" source="CQaIMBE6hB9jnADIV1aD-8" target="CQaIMBE6hB9jnADIV1aD-9">
+        <mxCell id="_J6-pG9I_Zbh-F4R5Bow-1" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="CQaIMBE6hB9jnADIV1aD-5" target="CQaIMBE6hB9jnADIV1aD-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CQaIMBE6hB9jnADIV1aD-8" value="&lt;div&gt;StocksSetWeight&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;fillColor=default;" vertex="1" parent="1">
+        <mxCell id="_J6-pG9I_Zbh-F4R5Bow-2" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="CQaIMBE6hB9jnADIV1aD-5" target="CQaIMBE6hB9jnADIV1aD-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CQaIMBE6hB9jnADIV1aD-5" value="BackgroundProcess" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;fillColor=default;" parent="1" vertex="1">
+          <mxGeometry x="380" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CQaIMBE6hB9jnADIV1aD-6" value="&lt;div&gt;StockMakeSectorQuote&lt;/div&gt;&lt;div&gt;(t_ns, isec, mid_px)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=default;" parent="1" vertex="1">
+          <mxGeometry x="560" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CQaIMBE6hB9jnADIV1aD-10" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;startSize=8;endSize=8;" parent="1" source="CQaIMBE6hB9jnADIV1aD-8" target="CQaIMBE6hB9jnADIV1aD-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CQaIMBE6hB9jnADIV1aD-8" value="&lt;div&gt;StocksSetWeight&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;fillColor=default;" parent="1" vertex="1">
           <mxGeometry x="560" y="110" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CQaIMBE6hB9jnADIV1aD-9" value="StocksMakeSectorQuoteInit" style="whiteSpace=wrap;html=1;rounded=0;labelBackgroundColor=default;" vertex="1" parent="1">
+        <mxCell id="CQaIMBE6hB9jnADIV1aD-9" value="StocksMakeSectorQuoteInit" style="whiteSpace=wrap;html=1;rounded=0;labelBackgroundColor=default;" parent="1" vertex="1">
           <mxGeometry x="800" y="110" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CQaIMBE6hB9jnADIV1aD-11" value="&lt;div align=&quot;left&quot;&gt;set time threshold&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;set weight&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontFamily=Helvetica;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+        <mxCell id="CQaIMBE6hB9jnADIV1aD-11" value="&lt;div align=&quot;left&quot;&gt;set time threshold&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;set weight&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontFamily=Helvetica;fontColor=default;labelBackgroundColor=default;" parent="1" vertex="1">
           <mxGeometry x="560" y="170" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_J6-pG9I_Zbh-F4R5Bow-3" value="&lt;blockquote&gt;UpdateInfo&lt;/blockquote&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="560" width="140" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="_J6-pG9I_Zbh-F4R5Bow-4" value="+_ns" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="_J6-pG9I_Zbh-F4R5Bow-3">
+          <mxGeometry y="26" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="_J6-pG9I_Zbh-F4R5Bow-5" value="+ _isec" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="_J6-pG9I_Zbh-F4R5Bow-3">
+          <mxGeometry y="52" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="_J6-pG9I_Zbh-F4R5Bow-8" value="&lt;div&gt;GenerateSignals&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-130" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_J6-pG9I_Zbh-F4R5Bow-9" value="&lt;div&gt;Run&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-130" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_J6-pG9I_Zbh-F4R5Bow-10" value="SendSubscribers" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_J6-pG9I_Zbh-F4R5Bow-11" value="SubscribeQuote" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_J6-pG9I_Zbh-F4R5Bow-15" value="- subscribe futures quotes" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontFamily=Helvetica;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="290" y="80" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
