@@ -281,15 +281,15 @@
           <mxGeometry x="880" y="155" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_J6-pG9I_Zbh-F4R5Bow-83" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="150" y="960" width="350" height="110" as="geometry" />
+          <mxGeometry x="150" y="960" width="360" height="110" as="geometry" />
         </mxCell>
         <mxCell id="_J6-pG9I_Zbh-F4R5Bow-81" value="&lt;div&gt;SigGen&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;labelBackgroundColor=none;fillColor=#dae8fc;" vertex="1" parent="_J6-pG9I_Zbh-F4R5Bow-83">
           <mxGeometry width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_J6-pG9I_Zbh-F4R5Bow-82" value="&lt;div&gt;- _late_start_ar // 是否开盘时间晚&lt;br&gt;&lt;/div&gt;&lt;div&gt;- _symexps // symexp hash -&amp;gt; ordinal&lt;/div&gt;&lt;div&gt;- _sector_weight // list for ordinal&lt;br&gt;&lt;/div&gt;&lt;div&gt;- _sector_end&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- _component_symexps // list for sector&lt;/div&gt;&lt;div&gt;- _late_start_count_ar&lt;/div&gt;&lt;div&gt;- _unready_count_ar&lt;/div&gt;&lt;div&gt;- _late_start_count_ar // all late or mid&lt;/div&gt;&lt;div&gt;- _component_index&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontFamily=Helvetica;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="_J6-pG9I_Zbh-F4R5Bow-83">
-          <mxGeometry x="120" y="-50" width="230" height="160" as="geometry" />
+        <mxCell id="_J6-pG9I_Zbh-F4R5Bow-82" value="&lt;div&gt;- _late_start_ar[] // 是否开盘时间晚&lt;br&gt;&lt;/div&gt;&lt;div&gt;- _symexps[] // symexp hash -&amp;gt; ordinal&lt;/div&gt;&lt;div&gt;- _sector_weight[] // list for ordinal&lt;br&gt;&lt;/div&gt;&lt;div&gt;- _sector_end[]&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- _component_symexps[] // list for sector&lt;/div&gt;&lt;div&gt;- _late_start_count_ar[]&lt;/div&gt;&lt;div&gt;- _unready_count_ar[]&lt;/div&gt;&lt;div&gt;- _late_start_count_ar[] // all late or mid&lt;/div&gt;&lt;div&gt;- _component_index[]&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontFamily=Helvetica;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="_J6-pG9I_Zbh-F4R5Bow-83">
+          <mxGeometry x="120" y="-50" width="240" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="_J6-pG9I_Zbh-F4R5Bow-85" value="&lt;div&gt;sector_id = &lt;b&gt;futures_sector_id&lt;/b&gt; + _offset&lt;/div&gt;&lt;div&gt;futures_sector_id [0, c_num_sectors)&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;ordinal&lt;/b&gt; 为symexp的顺序编号 [0, c_num_symexps)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;align=left;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="_J6-pG9I_Zbh-F4R5Bow-85" value="&lt;div&gt;sector_id = &lt;b&gt;futures_sector_id&lt;/b&gt; + &lt;b&gt;_offset&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;futures_sector_id&lt;/b&gt; [0, c_num_sectors)&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;ordinal&lt;/b&gt; 为symexp的顺序编号 [0, c_num_symexps)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;align=left;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="660" y="940" width="280" height="420" as="geometry" />
         </mxCell>
       </root>
