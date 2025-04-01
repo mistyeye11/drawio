@@ -417,6 +417,9 @@
         <mxCell id="_J6-pG9I_Zbh-F4R5Bow-124" value="check sleep 1us" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="100" y="2870" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="_J6-pG9I_Zbh-F4R5Bow-127" value="&lt;div&gt;did_work = False&lt;br&gt;&lt;/div&gt;&lt;div&gt;update_pool为空 &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;需要减少循环空转&lt;/b&gt;&lt;br&gt;&lt;/div&gt;" style="html=1;align=center;verticalAlign=middle;resizable=0;autosize=1;strokeColor=#ae4132;fillColor=#fad9d5;fontSize=12;shape=note;whiteSpace=wrap;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+          <mxGeometry x="230" y="2510" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
