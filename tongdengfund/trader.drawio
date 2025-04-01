@@ -276,7 +276,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="yrlugkEPMIqG9wpeOhrU-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="yrlugkEPMIqG9wpeOhrU-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#10739e;" vertex="1" parent="1">
           <mxGeometry x="70" y="1930" width="610" height="840" as="geometry" />
         </mxCell>
         <mxCell id="yrlugkEPMIqG9wpeOhrU-2" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="yrlugkEPMIqG9wpeOhrU-3" target="yrlugkEPMIqG9wpeOhrU-8">
