@@ -282,7 +282,7 @@
         <mxCell id="yrlugkEPMIqG9wpeOhrU-2" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="yrlugkEPMIqG9wpeOhrU-3" target="yrlugkEPMIqG9wpeOhrU-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yrlugkEPMIqG9wpeOhrU-3" value="Run" style="whiteSpace=wrap;html=1;shape=parallelogram;perimeter=parallelogramPerimeter;fixedSize=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+        <mxCell id="yrlugkEPMIqG9wpeOhrU-3" value="Run" style="whiteSpace=wrap;html=1;shape=parallelogram;perimeter=parallelogramPerimeter;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="-110" y="1760" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="yrlugkEPMIqG9wpeOhrU-4" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="yrlugkEPMIqG9wpeOhrU-8" target="yrlugkEPMIqG9wpeOhrU-10">
@@ -301,13 +301,13 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yrlugkEPMIqG9wpeOhrU-8" value="s_fifo_pool.empty" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="yrlugkEPMIqG9wpeOhrU-8" value="s_fifo_pool.empty" style="rhombus;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-90" y="1940" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="yrlugkEPMIqG9wpeOhrU-9" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="yrlugkEPMIqG9wpeOhrU-10" target="yrlugkEPMIqG9wpeOhrU-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yrlugkEPMIqG9wpeOhrU-10" value="BackgroundProcess" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;shape=parallelogram;perimeter=parallelogramPerimeter;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="yrlugkEPMIqG9wpeOhrU-10" value="BackgroundProcess" style="rounded=0;whiteSpace=wrap;html=1;shape=parallelogram;perimeter=parallelogramPerimeter;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="100" y="1950" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yrlugkEPMIqG9wpeOhrU-11" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;elbow=vertical;" edge="1" parent="1" source="yrlugkEPMIqG9wpeOhrU-12" target="yrlugkEPMIqG9wpeOhrU-3">
@@ -317,13 +317,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="yrlugkEPMIqG9wpeOhrU-12" value="&lt;div&gt;Process&lt;/div&gt;&lt;div&gt;push update_pool&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+        <mxCell id="yrlugkEPMIqG9wpeOhrU-12" value="&lt;div&gt;Process&lt;/div&gt;&lt;div&gt;push update_pool&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-110" y="2150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yrlugkEPMIqG9wpeOhrU-13" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="yrlugkEPMIqG9wpeOhrU-14" target="yrlugkEPMIqG9wpeOhrU-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yrlugkEPMIqG9wpeOhrU-14" value="pop update_pool&lt;br&gt;&lt;div&gt;update sector quote&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="yrlugkEPMIqG9wpeOhrU-14" value="pop update_pool&lt;br&gt;&lt;div&gt;update sector quote&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="100" y="2130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yrlugkEPMIqG9wpeOhrU-15" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="yrlugkEPMIqG9wpeOhrU-19" target="yrlugkEPMIqG9wpeOhrU-21">
@@ -342,19 +342,19 @@
             <mxPoint x="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yrlugkEPMIqG9wpeOhrU-19" value="update_pool.empty" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="yrlugkEPMIqG9wpeOhrU-19" value="update_pool.empty" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="120" y="2300" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="yrlugkEPMIqG9wpeOhrU-20" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="yrlugkEPMIqG9wpeOhrU-21" target="yrlugkEPMIqG9wpeOhrU-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yrlugkEPMIqG9wpeOhrU-21" value="send sector quote" style="whiteSpace=wrap;html=1;rounded=0;shape=label;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="yrlugkEPMIqG9wpeOhrU-21" value="send sector quote" style="whiteSpace=wrap;html=1;rounded=0;shape=label;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="100" y="2510" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yrlugkEPMIqG9wpeOhrU-22" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="yrlugkEPMIqG9wpeOhrU-23" target="yrlugkEPMIqG9wpeOhrU-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yrlugkEPMIqG9wpeOhrU-23" value="did_work = True" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="yrlugkEPMIqG9wpeOhrU-23" value="did_work = True" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="320" y="2310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yrlugkEPMIqG9wpeOhrU-24" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;elbow=vertical;" edge="1" parent="1" source="yrlugkEPMIqG9wpeOhrU-28" target="yrlugkEPMIqG9wpeOhrU-14">
@@ -395,10 +395,10 @@
         <mxCell id="yrlugkEPMIqG9wpeOhrU-30" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="yrlugkEPMIqG9wpeOhrU-31" target="yrlugkEPMIqG9wpeOhrU-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yrlugkEPMIqG9wpeOhrU-31" value="return did_work" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="yrlugkEPMIqG9wpeOhrU-31" value="return did_work" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="100" y="2690" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yrlugkEPMIqG9wpeOhrU-32" value="check sleep 1us" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="yrlugkEPMIqG9wpeOhrU-32" value="check sleep 1us" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="100" y="2870" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RkF-raoT9K1-TSc4ZcCP-2" value="&lt;div&gt;距离上次发出quote不足60s&lt;/div&gt;&lt;div&gt;则返回继续处理fifo&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" vertex="1" parent="1">
