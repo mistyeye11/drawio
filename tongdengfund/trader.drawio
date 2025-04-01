@@ -272,7 +272,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="pacq6LOI_EsZeIML_c9G" name="siggen_server mainloop">
-    <mxGraphModel dx="1707" dy="-393" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1876" dy="-606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -401,11 +401,14 @@
         <mxCell id="yrlugkEPMIqG9wpeOhrU-32" value="check sleep 1us" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="100" y="2870" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yrlugkEPMIqG9wpeOhrU-33" value="&lt;div&gt;did_work = False&lt;br&gt;&lt;/div&gt;&lt;div&gt;update_pool为空 &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;需要减少循环空转&lt;/b&gt;&lt;br&gt;&lt;/div&gt;" style="html=1;align=center;verticalAlign=middle;resizable=0;autosize=1;strokeColor=#ae4132;fillColor=#fad9d5;fontSize=12;shape=note;whiteSpace=wrap;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
-          <mxGeometry x="240" y="2510" width="120" height="60" as="geometry" />
+        <mxCell id="RkF-raoT9K1-TSc4ZcCP-2" value="&lt;div&gt;距离上次发出quote不足60s&lt;/div&gt;&lt;div&gt;则返回继续处理fifo&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="2290" width="160" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="yrlugkEPMIqG9wpeOhrU-34" value="&lt;div&gt;距离上次发出quote不足60s&lt;/div&gt;&lt;div&gt;则返回继续处理fifo&lt;/div&gt;" style="html=1;align=center;verticalAlign=middle;resizable=0;autosize=1;strokeColor=#ae4132;fillColor=#fad9d5;fontSize=12;shape=note;whiteSpace=wrap;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
-          <mxGeometry x="650" y="2320" width="170" height="40" as="geometry" />
+        <mxCell id="RkF-raoT9K1-TSc4ZcCP-3" value="&lt;div&gt;did_work = False&lt;br&gt;&lt;/div&gt;&lt;div&gt;update_pool为空 &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;需要减少循环空转&lt;/b&gt;&lt;br&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="2510" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RkF-raoT9K1-TSc4ZcCP-4" value="&lt;div&gt;核心诉求：&lt;/div&gt;&lt;div&gt;&lt;ol&gt;&lt;li&gt;s_fifo_pool 不要溢出&lt;/li&gt;&lt;li&gt;sector quote 需要不能被过度阻塞&lt;/li&gt;&lt;/ol&gt;系统限制：&lt;/div&gt;&lt;div&gt;&lt;ol&gt;&lt;li&gt;计算量有限&lt;/li&gt;&lt;/ol&gt;&lt;div&gt;本质是资源分配问题&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="-530" y="1910" width="230" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
