@@ -272,7 +272,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="pacq6LOI_EsZeIML_c9G" name="siggen_server mainloop">
-    <mxGraphModel dx="2087" dy="-606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2449" dy="-393" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -301,7 +301,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yrlugkEPMIqG9wpeOhrU-8" value="s_fifo_pool.empty" style="rhombus;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;shadow=0;strokeWidth=3;" vertex="1" parent="1">
+        <mxCell id="yrlugkEPMIqG9wpeOhrU-8" value="s_fifo_pool.empty" style="rhombus;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;shadow=0;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="-90" y="1940" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="yrlugkEPMIqG9wpeOhrU-9" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="yrlugkEPMIqG9wpeOhrU-10" target="yrlugkEPMIqG9wpeOhrU-14">
@@ -348,7 +348,7 @@
         <mxCell id="yrlugkEPMIqG9wpeOhrU-20" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="yrlugkEPMIqG9wpeOhrU-21" target="yrlugkEPMIqG9wpeOhrU-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yrlugkEPMIqG9wpeOhrU-21" value="send sector quote" style="whiteSpace=wrap;html=1;rounded=0;shape=label;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;shadow=0;strokeWidth=3;" vertex="1" parent="1">
+        <mxCell id="yrlugkEPMIqG9wpeOhrU-21" value="send sector quote" style="whiteSpace=wrap;html=1;rounded=0;shape=label;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;shadow=0;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="2510" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yrlugkEPMIqG9wpeOhrU-22" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="yrlugkEPMIqG9wpeOhrU-23" target="yrlugkEPMIqG9wpeOhrU-28">
