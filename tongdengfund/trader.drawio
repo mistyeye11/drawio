@@ -272,12 +272,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="pacq6LOI_EsZeIML_c9G" name="siggen_server mainloop">
-    <mxGraphModel dx="1553" dy="-393" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1909" dy="-300" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="yrlugkEPMIqG9wpeOhrU-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#82b366;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="70" y="1930" width="610" height="840" as="geometry" />
+          <mxGeometry x="80" y="2050" width="610" height="840" as="geometry" />
         </mxCell>
         <mxCell id="yrlugkEPMIqG9wpeOhrU-2" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="yrlugkEPMIqG9wpeOhrU-3" target="yrlugkEPMIqG9wpeOhrU-8">
           <mxGeometry relative="1" as="geometry" />
