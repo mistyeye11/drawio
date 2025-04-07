@@ -408,7 +408,7 @@
           <mxGeometry x="260" y="2870" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RkF-raoT9K1-TSc4ZcCP-4" value="&lt;div&gt;核心需求：&lt;/div&gt;&lt;div&gt;&lt;ol&gt;&lt;li&gt;s_fifo_pool 不要溢出&lt;/li&gt;&lt;li&gt;sector quote 要及时发出，不能被过度阻塞&lt;/li&gt;&lt;/ol&gt;限制：&lt;/div&gt;&lt;div&gt;&lt;ol&gt;&lt;li&gt;计算资源有限&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;align=left;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="-340" y="2300" width="230" height="200" as="geometry" />
+          <mxGeometry x="360" y="1760" width="230" height="200" as="geometry" />
         </mxCell>
         <mxCell id="IVw7noxQLrwJPIjSUC7B-1" value="BackgroundProcess" style="rounded=0;whiteSpace=wrap;html=1;shape=parallelogram;perimeter=parallelogramPerimeter;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="-940" y="1810" width="120" height="60" as="geometry" />
