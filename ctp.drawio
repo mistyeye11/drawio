@@ -1,9 +1,48 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.14">
   <diagram name="Page-1" id="BiCyBCFDFRlxeQSaCZcT">
-    <mxGraphModel>
+    <mxGraphModel dx="946" dy="644" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="bjhS1fbtTmxRtksdoenm-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bjhS1fbtTmxRtksdoenm-1" target="bjhS1fbtTmxRtksdoenm-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bjhS1fbtTmxRtksdoenm-1" value="&lt;div style=&quot;color: rgb(101, 123, 131); background-color: rgb(253, 246, 227); font-family: &amp;quot;Fira Code&amp;quot;, Consolas, monospace, Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;&lt;span style=&quot;color: #268bd2;&quot;&gt;OnFrontConnected&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bjhS1fbtTmxRtksdoenm-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bjhS1fbtTmxRtksdoenm-2" target="bjhS1fbtTmxRtksdoenm-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bjhS1fbtTmxRtksdoenm-2" value="&lt;div style=&quot;color: rgb(101, 123, 131); background-color: rgb(253, 246, 227); font-family: &amp;quot;Fira Code&amp;quot;, Consolas, monospace, Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;&lt;div style=&quot;color: rgb(101, 123, 131); background-color: rgb(253, 246, 227); line-height: 19px;&quot;&gt;&lt;span style=&quot;color: #268bd2;&quot;&gt;ReqAuthenticate&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bjhS1fbtTmxRtksdoenm-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bjhS1fbtTmxRtksdoenm-4" target="bjhS1fbtTmxRtksdoenm-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bjhS1fbtTmxRtksdoenm-4" value="&lt;div style=&quot;color: rgb(101, 123, 131); background-color: rgb(253, 246, 227); font-family: &amp;quot;Fira Code&amp;quot;, Consolas, monospace, Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-weight: normal; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(38, 139, 210);&quot;&gt;OnRspAuthenticate&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bjhS1fbtTmxRtksdoenm-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bjhS1fbtTmxRtksdoenm-7" target="bjhS1fbtTmxRtksdoenm-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bjhS1fbtTmxRtksdoenm-7" value="&lt;div style=&quot;color: rgb(101, 123, 131); background-color: rgb(253, 246, 227); font-family: &amp;quot;Fira Code&amp;quot;, Consolas, monospace, Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-weight: normal; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(38, 139, 210);&quot;&gt;ReqUserLogin&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bjhS1fbtTmxRtksdoenm-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bjhS1fbtTmxRtksdoenm-9" target="bjhS1fbtTmxRtksdoenm-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bjhS1fbtTmxRtksdoenm-9" value="&lt;div style=&quot;color: rgb(101, 123, 131); background-color: rgb(253, 246, 227); font-family: &amp;quot;Fira Code&amp;quot;, Consolas, monospace, Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-weight: normal; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(38, 139, 210);&quot;&gt;OnRspUserLogin&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="730" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bjhS1fbtTmxRtksdoenm-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bjhS1fbtTmxRtksdoenm-12" target="bjhS1fbtTmxRtksdoenm-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bjhS1fbtTmxRtksdoenm-12" value="&lt;div style=&quot;color: rgb(101, 123, 131); background-color: rgb(253, 246, 227); font-family: &amp;quot;Fira Code&amp;quot;, Consolas, monospace, Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-weight: normal; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(38, 139, 210);&quot;&gt;ReqSettlementInfoConfirm&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="870" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bjhS1fbtTmxRtksdoenm-14" value="&lt;div style=&quot;color: rgb(101, 123, 131); background-color: rgb(253, 246, 227); font-family: &amp;quot;Fira Code&amp;quot;, Consolas, monospace, Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-weight: normal; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(38, 139, 210);&quot;&gt;OnRspSettlementInfoConfirm&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="1010" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
