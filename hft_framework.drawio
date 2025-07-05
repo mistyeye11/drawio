@@ -7,6 +7,9 @@
         <mxCell id="oX8QJ8v67Z4_SSj95SlL-10" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="-578" y="590" width="330" height="170" as="geometry" />
         </mxCell>
+        <mxCell id="oX8QJ8v67Z4_SSj95SlL-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="oX8QJ8v67Z4_SSj95SlL-12" target="oX8QJ8v67Z4_SSj95SlL-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="oX8QJ8v67Z4_SSj95SlL-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="-578" y="40" width="330" height="170" as="geometry" />
         </mxCell>
@@ -119,7 +122,7 @@
           <mxGeometry x="-160" y="610" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Np0CVXmdSU2NpfKUSfFp-36" value="跨期套利：&lt;div&gt;(交易通道 交易机) 行情 - 套利策略 - 下单&lt;/div&gt;&lt;div&gt;(调参通道 个人机器) 行情? - web前端? - 后端? - 信号&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;指数现货行情 - 期货下单服务器&lt;/div&gt;&lt;div&gt;- wind 3s一次指数数据&lt;/div&gt;&lt;div&gt;- 前二十支成分股实时维护&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;align=left;backgroundOutline=1;darkOpacity=0.05;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="-1187" y="255" width="360" height="270" as="geometry" />
+          <mxGeometry x="-1070" y="210" width="360" height="270" as="geometry" />
         </mxCell>
         <mxCell id="oX8QJ8v67Z4_SSj95SlL-3" value="SimQuoteServer" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;fontStyle=2" vertex="1" parent="1">
           <mxGeometry x="-400" y="-70" width="120" height="60" as="geometry" />
@@ -134,7 +137,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="oX8QJ8v67Z4_SSj95SlL-42" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;shape=flexArrow;" edge="1" parent="1" source="oX8QJ8v67Z4_SSj95SlL-6" target="Np0CVXmdSU2NpfKUSfFp-14">
+        <mxCell id="oX8QJ8v67Z4_SSj95SlL-42" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=flexArrow;" edge="1" parent="1" source="oX8QJ8v67Z4_SSj95SlL-45" target="Np0CVXmdSU2NpfKUSfFp-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oX8QJ8v67Z4_SSj95SlL-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="oX8QJ8v67Z4_SSj95SlL-6" target="oX8QJ8v67Z4_SSj95SlL-45">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oX8QJ8v67Z4_SSj95SlL-6" value="InterServerSignal" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="1">
@@ -161,7 +167,7 @@
         <mxCell id="oX8QJ8v67Z4_SSj95SlL-24" value="ServerManager" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="40" y="160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="oX8QJ8v67Z4_SSj95SlL-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#eeeeee;strokeColor=#36393d;" edge="1" parent="1" source="oX8QJ8v67Z4_SSj95SlL-27" target="Np0CVXmdSU2NpfKUSfFp-1">
+        <mxCell id="oX8QJ8v67Z4_SSj95SlL-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#eeeeee;strokeColor=#36393d;dashed=1;" edge="1" parent="1" source="oX8QJ8v67Z4_SSj95SlL-27" target="Np0CVXmdSU2NpfKUSfFp-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oX8QJ8v67Z4_SSj95SlL-27" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
@@ -184,6 +190,12 @@
         </mxCell>
         <mxCell id="oX8QJ8v67Z4_SSj95SlL-41" value="Shm" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="215" y="-52" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oX8QJ8v67Z4_SSj95SlL-43" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="-760" y="600" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="oX8QJ8v67Z4_SSj95SlL-45" value="InterServerSignal" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="430" y="610" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
