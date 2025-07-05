@@ -182,8 +182,8 @@
         <mxCell id="oX8QJ8v67Z4_SSj95SlL-34" value="MessageType" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="-20" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="oX8QJ8v67Z4_SSj95SlL-35" value="OnSnapshot" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-260" y="235" width="90" height="30" as="geometry" />
+        <mxCell id="oX8QJ8v67Z4_SSj95SlL-35" value="OnSnapshot..." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-265" y="235" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="oX8QJ8v67Z4_SSj95SlL-39" value="PositionManager" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="-302" y="440" width="120" height="60" as="geometry" />
