@@ -14,7 +14,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Np0CVXmdSU2NpfKUSfFp-1" value="nsq_api" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-480" y="60" width="120" height="60" as="geometry" />
+          <mxGeometry x="-560" y="60" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Np0CVXmdSU2NpfKUSfFp-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;" edge="1" parent="1" source="Np0CVXmdSU2NpfKUSfFp-14" target="Np0CVXmdSU2NpfKUSfFp-16">
           <mxGeometry relative="1" as="geometry" />
@@ -36,20 +36,31 @@
         <mxCell id="Np0CVXmdSU2NpfKUSfFp-15" value="ServerBase" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry y="60" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Np0CVXmdSU2NpfKUSfFp-16" value="NsqQuoteServer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-320" y="60" width="120" height="60" as="geometry" />
+        <mxCell id="Np0CVXmdSU2NpfKUSfFp-16" value="NsqQuoteServer" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-400" y="60" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Np0CVXmdSU2NpfKUSfFp-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;" edge="1" parent="1" source="Np0CVXmdSU2NpfKUSfFp-22" target="Np0CVXmdSU2NpfKUSfFp-24">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Np0CVXmdSU2NpfKUSfFp-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;" edge="1" parent="1" source="Np0CVXmdSU2NpfKUSfFp-22" target="Np0CVXmdSU2NpfKUSfFp-30">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-220" y="270" />
+              <mxPoint x="-220" y="390" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="Np0CVXmdSU2NpfKUSfFp-22" value="TraderBase" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-160" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Np0CVXmdSU2NpfKUSfFp-23" value="LogUtil" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="60" width="120" height="60" as="geometry" />
+          <mxGeometry x="230" y="60" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Np0CVXmdSU2NpfKUSfFp-24" value="TraderA" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-320" y="240" width="120" height="60" as="geometry" />
+        <mxCell id="Np0CVXmdSU2NpfKUSfFp-24" value="TraderA" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-400" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Np0CVXmdSU2NpfKUSfFp-30" value="Executor" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-400" y="360" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
