@@ -86,7 +86,7 @@
             <mxPoint x="-100" y="470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oX8QJ8v67Z4_SSj95SlL-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Np0CVXmdSU2NpfKUSfFp-22" target="oX8QJ8v67Z4_SSj95SlL-39">
+        <mxCell id="oX8QJ8v67Z4_SSj95SlL-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=open;endFill=0;" edge="1" parent="1" source="Np0CVXmdSU2NpfKUSfFp-22" target="oX8QJ8v67Z4_SSj95SlL-39">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Np0CVXmdSU2NpfKUSfFp-22" value="StrategyServerBase" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
