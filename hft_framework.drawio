@@ -45,6 +45,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="oX8QJ8v67Z4_SSj95SlL-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;" edge="1" parent="1" source="Np0CVXmdSU2NpfKUSfFp-15" target="Np0CVXmdSU2NpfKUSfFp-33">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint y="90" />
+              <mxPoint y="640" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Np0CVXmdSU2NpfKUSfFp-15" value="ServerBase" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="60" width="120" height="60" as="geometry" />
         </mxCell>
@@ -76,6 +84,14 @@
         <mxCell id="oX8QJ8v67Z4_SSj95SlL-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;" edge="1" parent="1" source="Np0CVXmdSU2NpfKUSfFp-33" target="oX8QJ8v67Z4_SSj95SlL-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="oX8QJ8v67Z4_SSj95SlL-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;" edge="1" parent="1" source="Np0CVXmdSU2NpfKUSfFp-33" target="oX8QJ8v67Z4_SSj95SlL-18">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-220" y="640" />
+              <mxPoint x="-220" y="810" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Np0CVXmdSU2NpfKUSfFp-33" value="TradeServerBase" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-160" y="610" width="120" height="60" as="geometry" />
         </mxCell>
@@ -95,7 +111,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="oX8QJ8v67Z4_SSj95SlL-5" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="oX8QJ8v67Z4_SSj95SlL-5" value="Optimizer" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-160" y="480" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="oX8QJ8v67Z4_SSj95SlL-6" value="Inter" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -112,6 +128,9 @@
         </mxCell>
         <mxCell id="oX8QJ8v67Z4_SSj95SlL-13" value="YidaTradeServer" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="-400" y="610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oX8QJ8v67Z4_SSj95SlL-18" value="SimTradeServer" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="-400" y="780" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
