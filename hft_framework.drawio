@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="27.2.0" pages="2">
   <diagram name="Framework" id="izHdCFUZK2JU7I0uywET">
-    <mxGraphModel dx="3155" dy="2037" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3231" dy="2242" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -56,7 +56,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Np0CVXmdSU2NpfKUSfFp-15" value="ServerBase" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Np0CVXmdSU2NpfKUSfFp-15" value="ServerBase" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="40" y="60" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Np0CVXmdSU2NpfKUSfFp-16" value="NsqQuoteServer" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
@@ -111,7 +111,7 @@
           <mxGeometry x="-160" y="610" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Np0CVXmdSU2NpfKUSfFp-36" value="跨期套利：&lt;div&gt;(交易通道 交易机) 行情 - 套利策略 - 下单&lt;/div&gt;&lt;div&gt;(调参通道 个人机器) 行情? - web前端? - 后端? - 信号&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;align=left;backgroundOutline=1;darkOpacity=0.05;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="-938" y="280" width="360" height="270" as="geometry" />
+          <mxGeometry x="-1030" y="250" width="360" height="270" as="geometry" />
         </mxCell>
         <mxCell id="oX8QJ8v67Z4_SSj95SlL-3" value="SimQuoteServer" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="-400" y="-70" width="120" height="60" as="geometry" />
@@ -129,11 +129,11 @@
         <mxCell id="oX8QJ8v67Z4_SSj95SlL-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=flexArrow;" edge="1" parent="1" source="oX8QJ8v67Z4_SSj95SlL-5" target="Np0CVXmdSU2NpfKUSfFp-33">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="oX8QJ8v67Z4_SSj95SlL-5" value="Optimizer" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-160" y="480" width="120" height="60" as="geometry" />
+        <mxCell id="oX8QJ8v67Z4_SSj95SlL-5" value="Optimizer?" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="460" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="oX8QJ8v67Z4_SSj95SlL-6" value="SignalSender" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="270" width="120" height="60" as="geometry" />
+        <mxCell id="oX8QJ8v67Z4_SSj95SlL-6" value="InterServerSignal" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="220" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="oX8QJ8v67Z4_SSj95SlL-7" value="OrderManager" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-300" y="360" width="120" height="60" as="geometry" />
