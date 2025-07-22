@@ -258,10 +258,10 @@
         <mxCell id="_dNiTlbKljafT5K42C06-4" value="link type" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#0F8B8D;fontColor=#143642;fillColor=#FAE5C7;" vertex="1" parent="1">
           <mxGeometry x="200" y="440" width="400" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_dNiTlbKljafT5K42C06-5" value="Market Data" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;strokeColor=#0F8B8D;fontColor=#143642;fillColor=#FAE5C7;" vertex="1" parent="1">
+        <mxCell id="_dNiTlbKljafT5K42C06-5" value="Market Data" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;strokeColor=#36393d;fillColor=#eeeeee;" vertex="1" parent="1">
           <mxGeometry x="240" y="600" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="_dNiTlbKljafT5K42C06-6" value="Trade Server" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;strokeColor=#0F8B8D;fontColor=#143642;fillColor=#FAE5C7;" vertex="1" parent="1">
+        <mxCell id="_dNiTlbKljafT5K42C06-6" value="Trade Server" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;strokeColor=#36393d;fillColor=#eeeeee;" vertex="1" parent="1">
           <mxGeometry x="440" y="600" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="_dNiTlbKljafT5K42C06-8" value="processor" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#0F8B8D;fontColor=#143642;fillColor=#FAE5C7;" vertex="1" parent="1">
@@ -295,7 +295,7 @@
           <mxGeometry x="650" y="350" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_dNiTlbKljafT5K42C06-18" value="position server" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#0F8B8D;fontColor=#143642;fillColor=#FAE5C7;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="650" y="300" width="100" height="40" as="geometry" />
+          <mxGeometry x="720" y="300" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_dNiTlbKljafT5K42C06-19" value="risk model" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#0F8B8D;fontColor=#143642;fillColor=#FAE5C7;" vertex="1" parent="1">
           <mxGeometry x="430" y="350" width="100" height="40" as="geometry" />
@@ -303,14 +303,20 @@
         <mxCell id="_dNiTlbKljafT5K42C06-21" value="OM" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#0F8B8D;fontColor=#143642;fillColor=#FAE5C7;" vertex="1" parent="1">
           <mxGeometry x="480" y="300" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_dNiTlbKljafT5K42C06-14" value="Strategies" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;strokeColor=#0F8B8D;fontColor=#143642;fillColor=#FAE5C7;" vertex="1" parent="1">
-          <mxGeometry x="340" y="100" width="120" height="80" as="geometry" />
+        <mxCell id="_dNiTlbKljafT5K42C06-14" value="Strategies" style="shape=label;whiteSpace=wrap;html=1;strokeColor=#36393d;fillColor=#eeeeee;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="80" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_dNiTlbKljafT5K42C06-24" value="market" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
           <mxGeometry x="120" y="200" width="560" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_dNiTlbKljafT5K42C06-25" value="security&lt;div&gt;master&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#0F8B8D;fontColor=#143642;fillColor=#FAE5C7;shape=ellipse;perimeter=ellipsePerimeter;" vertex="1" parent="1">
-          <mxGeometry x="-20" y="190" width="100" height="40" as="geometry" />
+          <mxGeometry x="-20" y="140" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_dNiTlbKljafT5K42C06-26" value="config parser" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="200" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_dNiTlbKljafT5K42C06-27" value="configs" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;strokeColor=#666666;fontColor=#333333;fillColor=#f5f5f5;" vertex="1" parent="1">
+          <mxGeometry x="-130" y="190" width="80" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
