@@ -274,11 +274,8 @@
         <mxCell id="_dNiTlbKljafT5K42C06-27" value="configs" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;strokeColor=#666666;fontColor=#333333;fillColor=#f5f5f5;" parent="1" vertex="1">
           <mxGeometry x="-10" y="120" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jhaZnHma3A8EsAPDaMVV-1" value="security&lt;div&gt;master&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#0F8B8D;fontColor=#143642;fillColor=#FAE5C7;shape=label;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="jhaZnHma3A8EsAPDaMVV-1" value="modules" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#0F8B8D;fontColor=#143642;fillColor=#FAE5C7;shape=label;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="-260" y="276" width="160" height="64" as="geometry" />
-        </mxCell>
-        <mxCell id="jhaZnHma3A8EsAPDaMVV-2" value="security&lt;div&gt;master&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#0F8B8D;fontColor=#143642;fillColor=#FAE5C7;shape=label;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="-260" y="388" width="160" height="64" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
