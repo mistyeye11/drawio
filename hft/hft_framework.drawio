@@ -357,7 +357,7 @@
         <mxCell id="O3uTB51MjD1JjQQONiIE-17" value="StrategyTask" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-5" y="-141" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="O3uTB51MjD1JjQQONiIE-18" value="Task" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="O3uTB51MjD1JjQQONiIE-18" value="task" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="20" y="140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="O3uTB51MjD1JjQQONiIE-19" value="MarketDataTask" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -389,6 +389,15 @@
         </mxCell>
         <mxCell id="O3uTB51MjD1JjQQONiIE-30" value="StrategyXTask" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-20" y="-271" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5XECZ-hdbSdGraaxM2Om-2" value="logger" style="ellipse;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
+          <mxGeometry x="200" y="160" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5XECZ-hdbSdGraaxM2Om-3" value="MonitorTask" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
+          <mxGeometry x="580" y="-11" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5XECZ-hdbSdGraaxM2Om-4" value="robot" style="ellipse;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
+          <mxGeometry x="240" y="250" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
