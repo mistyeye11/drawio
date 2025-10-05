@@ -396,8 +396,23 @@
         <mxCell id="5XECZ-hdbSdGraaxM2Om-3" value="MonitorTask" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
           <mxGeometry x="580" y="-11" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5XECZ-hdbSdGraaxM2Om-4" value="robot" style="ellipse;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
+        <mxCell id="5XECZ-hdbSdGraaxM2Om-4" value="config manager/robot" style="ellipse;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
           <mxGeometry x="240" y="250" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5XECZ-hdbSdGraaxM2Om-5" value="Data Way" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-230" y="558" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5XECZ-hdbSdGraaxM2Om-6" value="Class" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="55" y="558" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5XECZ-hdbSdGraaxM2Om-7" value="Common" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="260" y="558" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5XECZ-hdbSdGraaxM2Om-9" value="memory pool" style="ellipse;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
+          <mxGeometry x="330" y="160" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5XECZ-hdbSdGraaxM2Om-10" value="metric" style="ellipse;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
+          <mxGeometry x="370" y="250" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
