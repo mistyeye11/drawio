@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" version="28.2.5" pages="4">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" version="28.2.5" pages="5">
   <diagram name="Framework" id="izHdCFUZK2JU7I0uywET">
     <mxGraphModel dx="3109" dy="2160" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -490,6 +490,71 @@
             <mxPoint x="-610" y="-150" as="sourcePoint" />
             <mxPoint x="70" y="-151" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="JWfqU6Jhd-usA7xmpBA-" name="套利">
+    <mxGraphModel dx="2066" dy="1185" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="LS3FwMnk52PxzljeQ8Er-26" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="250" width="560" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="LS3FwMnk52PxzljeQ8Er-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="LS3FwMnk52PxzljeQ8Er-1" target="LS3FwMnk52PxzljeQ8Er-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LS3FwMnk52PxzljeQ8Er-5" value="HTTP &amp;amp; WebSocket" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="LS3FwMnk52PxzljeQ8Er-4">
+          <mxGeometry x="-0.1048" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LS3FwMnk52PxzljeQ8Er-1" value="Frontend&lt;div&gt;- display market data &amp;amp; positions&lt;/div&gt;&lt;div&gt;- change parameters&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="140" width="360" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LS3FwMnk52PxzljeQ8Er-2" value="Backend&lt;br&gt;&lt;div&gt;- token authentication&lt;/div&gt;&lt;div&gt;- routing&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="270" width="360" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LS3FwMnk52PxzljeQ8Er-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LS3FwMnk52PxzljeQ8Er-7" target="LS3FwMnk52PxzljeQ8Er-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LS3FwMnk52PxzljeQ8Er-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="LS3FwMnk52PxzljeQ8Er-7" target="LS3FwMnk52PxzljeQ8Er-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LS3FwMnk52PxzljeQ8Er-7" value="MarketThread&lt;div&gt;- update frontend&lt;/div&gt;&lt;div&gt;- publish event to traders&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LS3FwMnk52PxzljeQ8Er-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="LS3FwMnk52PxzljeQ8Er-10" target="LS3FwMnk52PxzljeQ8Er-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LS3FwMnk52PxzljeQ8Er-10" value="Trader1&lt;div&gt;- react on events&lt;/div&gt;&lt;div&gt;- maintain basic information&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LS3FwMnk52PxzljeQ8Er-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="LS3FwMnk52PxzljeQ8Er-11" target="LS3FwMnk52PxzljeQ8Er-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LS3FwMnk52PxzljeQ8Er-23" value="MdApi" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="LS3FwMnk52PxzljeQ8Er-14">
+          <mxGeometry x="0.0222" y="-1" relative="1" as="geometry">
+            <mxPoint x="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LS3FwMnk52PxzljeQ8Er-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="LS3FwMnk52PxzljeQ8Er-11" target="LS3FwMnk52PxzljeQ8Er-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LS3FwMnk52PxzljeQ8Er-24" value="TdApi" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="LS3FwMnk52PxzljeQ8Er-17">
+          <mxGeometry x="0.0556" y="-1" relative="1" as="geometry">
+            <mxPoint x="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LS3FwMnk52PxzljeQ8Er-11" value="Exchange" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="520" width="360" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LS3FwMnk52PxzljeQ8Er-19" value="TraderX" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LS3FwMnk52PxzljeQ8Er-27" value="Single Process, Multi-Threads" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d6b656;fillColor=#fff2cc;" vertex="1" parent="1">
+          <mxGeometry x="680" y="250" width="180" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
